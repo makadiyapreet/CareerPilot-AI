@@ -199,3 +199,8 @@ __pycache__
 .env
 dist
 build
+
+report.md 
+AWS_DEPLOYMENT_GUIDE.md 
+EC2_DEPLOY_STEPS.md 
+SETUP_GUIDE.md 
