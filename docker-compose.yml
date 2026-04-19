@@ -1,0 +1,50 @@
+# ============================================
+# CareerPilot AI — Docker Compose
+# Authors: Preet Makadiya & Om Kathiriya
+# ============================================
+# Usage:
+#   docker-compose up --build        (first time / after code changes)
+#   docker-compose up -d             (run in background)
+#   docker-compose down              (stop all)
+#   docker-compose logs -f backend   (tail backend logs)
+# ============================================
+
+version: "3.8"
+
+services:
+  # ── Backend (FastAPI) ──────────────────────
+  backend:
+    build: ./backend
+    container_name: careerpilot-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    environment:
+      - ALLOWED_ORIGINS=http://localhost:3000,http://localhost
+    volumes:
+      - backend_uploads:/app/uploads
+      - backend_db:/app
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ── Frontend (React + Nginx) ───────────────
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_URL: http://localhost:8000
+    container_name: careerpilot-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend_uploads:
+  backend_db:

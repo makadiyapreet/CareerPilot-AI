@@ -1,0 +1,1770 @@
+{
+  "python": {
+    "level": "beginner",
+    "category": "programming",
+    "importance": "critical",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["numpy", "pandas", "flask", "django", "fastapi"],
+    "resources": [
+      {"name": "Python for Everybody - Coursera", "url": "https://www.coursera.org/specializations/python", "type": "course"},
+      {"name": "Automate the Boring Stuff", "url": "https://automatetheboringstuff.com/", "type": "book"},
+      {"name": "Real Python Tutorials", "url": "https://realpython.com/", "type": "tutorial"}
+    ],
+    "certifications": ["PCEP", "PCAP", "PCPP"]
+  },
+  "java": {
+    "level": "beginner",
+    "category": "programming",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": [],
+    "related": ["spring", "spring boot", "maven", "gradle", "hibernate"],
+    "resources": [
+      {"name": "Java Programming - MOOC.fi", "url": "https://java-programming.mooc.fi/", "type": "course"},
+      {"name": "Head First Java", "url": "https://www.oreilly.com/library/view/head-first-java/", "type": "book"},
+      {"name": "Codecademy Java", "url": "https://www.codecademy.com/learn/learn-java", "type": "tutorial"}
+    ],
+    "certifications": ["Oracle Certified Associate", "Oracle Certified Professional"]
+  },
+  "javascript": {
+    "level": "beginner",
+    "category": "programming",
+    "importance": "critical",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["html", "css"],
+    "related": ["react", "node.js", "typescript", "vue", "angular"],
+    "resources": [
+      {"name": "JavaScript.info", "url": "https://javascript.info/", "type": "tutorial"},
+      {"name": "Eloquent JavaScript", "url": "https://eloquentjavascript.net/", "type": "book"},
+      {"name": "freeCodeCamp JavaScript", "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "typescript": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["javascript"],
+    "related": ["javascript", "react", "angular", "node.js"],
+    "resources": [
+      {"name": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/", "type": "tutorial"},
+      {"name": "Execute Program", "url": "https://www.executeprogram.com/", "type": "course"},
+      {"name": "TypeScript Deep Dive", "url": "https://basarat.gitbook.io/typescript/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "go": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["docker", "kubernetes", "microservices"],
+    "resources": [
+      {"name": "Go Tour", "url": "https://go.dev/tour/", "type": "tutorial"},
+      {"name": "Learn Go with Tests", "url": "https://quii.gitbook.io/learn-go-with-tests/", "type": "book"},
+      {"name": "Go by Example", "url": "https://gobyexample.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "rust": {
+    "level": "advanced",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["c", "systems programming"],
+    "related": ["systems programming", "webassembly"],
+    "resources": [
+      {"name": "The Rust Book", "url": "https://doc.rust-lang.org/book/", "type": "book"},
+      {"name": "Rustlings", "url": "https://github.com/rust-lang/rustlings", "type": "tutorial"},
+      {"name": "Rust by Example", "url": "https://doc.rust-lang.org/rust-by-example/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "c": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": [],
+    "related": ["c++", "systems programming", "embedded systems"],
+    "resources": [
+      {"name": "C Programming - CS50", "url": "https://cs50.harvard.edu/x/", "type": "course"},
+      {"name": "The C Programming Language", "url": "https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "c++": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "8-10 weeks",
+    "prerequisites": ["c"],
+    "related": ["c", "systems programming", "game development"],
+    "resources": [
+      {"name": "LearnCpp.com", "url": "https://www.learncpp.com/", "type": "tutorial"},
+      {"name": "C++ Primer", "url": "https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "c#": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": [],
+    "related": [".net", "unity", "asp.net", "xamarin"],
+    "resources": [
+      {"name": "C# Fundamentals - Pluralsight", "url": "https://www.pluralsight.com/paths/csharp", "type": "course"},
+      {"name": "Microsoft C# Docs", "url": "https://docs.microsoft.com/en-us/dotnet/csharp/", "type": "documentation"}
+    ],
+    "certifications": ["Microsoft Certified: Azure Developer"]
+  },
+  "kotlin": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["java"],
+    "related": ["java", "android", "spring boot"],
+    "resources": [
+      {"name": "Kotlin Koans", "url": "https://kotlinlang.org/docs/koans.html", "type": "tutorial"},
+      {"name": "Android Basics in Kotlin", "url": "https://developer.android.com/courses/android-basics-kotlin/course", "type": "course"}
+    ],
+    "certifications": ["Kotlin Developer Certified"]
+  },
+  "swift": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["ios", "xcode", "swiftui"],
+    "resources": [
+      {"name": "Swift Playgrounds", "url": "https://www.apple.com/swift/playgrounds/", "type": "tutorial"},
+      {"name": "Hacking with Swift", "url": "https://www.hackingwithswift.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "ruby": {
+    "level": "beginner",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["ruby on rails", "sinatra"],
+    "resources": [
+      {"name": "Ruby in Twenty Minutes", "url": "https://www.ruby-lang.org/en/documentation/quickstart/", "type": "tutorial"},
+      {"name": "The Odin Project Ruby", "url": "https://www.theodinproject.com/paths/full-stack-ruby-on-rails", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "php": {
+    "level": "beginner",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["html"],
+    "related": ["laravel", "wordpress", "symfony"],
+    "resources": [
+      {"name": "PHP The Right Way", "url": "https://phptherightway.com/", "type": "tutorial"},
+      {"name": "Laracasts", "url": "https://laracasts.com/", "type": "course"}
+    ],
+    "certifications": ["Zend Certified PHP Engineer"]
+  },
+  "scala": {
+    "level": "advanced",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "8-10 weeks",
+    "prerequisites": ["java"],
+    "related": ["spark", "akka", "functional programming"],
+    "resources": [
+      {"name": "Scala Exercises", "url": "https://www.scala-exercises.org/", "type": "tutorial"},
+      {"name": "Functional Programming in Scala", "url": "https://www.coursera.org/specializations/scala", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "r": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["statistics"],
+    "related": ["statistics", "data analysis", "ggplot2"],
+    "resources": [
+      {"name": "R for Data Science", "url": "https://r4ds.had.co.nz/", "type": "book"},
+      {"name": "Swirl R", "url": "https://swirlstats.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "julia": {
+    "level": "intermediate",
+    "category": "programming",
+    "importance": "low",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["python"],
+    "related": ["scientific computing", "data science"],
+    "resources": [
+      {"name": "Julia Documentation", "url": "https://docs.julialang.org/", "type": "documentation"},
+      {"name": "Julia Academy", "url": "https://juliaacademy.com/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "dart": {
+    "level": "beginner",
+    "category": "programming",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["flutter", "mobile development"],
+    "resources": [
+      {"name": "Dart Documentation", "url": "https://dart.dev/guides", "type": "documentation"},
+      {"name": "Dart Tutorials", "url": "https://dart.dev/tutorials", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "sql": {
+    "level": "beginner",
+    "category": "database",
+    "importance": "critical",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["postgresql", "mysql", "mongodb", "data analysis"],
+    "resources": [
+      {"name": "SQLZoo", "url": "https://sqlzoo.net/", "type": "tutorial"},
+      {"name": "Mode SQL Tutorial", "url": "https://mode.com/sql-tutorial/", "type": "tutorial"},
+      {"name": "W3Schools SQL", "url": "https://www.w3schools.com/sql/", "type": "tutorial"}
+    ],
+    "certifications": ["Oracle SQL Certified"]
+  },
+  "postgresql": {
+    "level": "intermediate",
+    "category": "database",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["sql"],
+    "related": ["sql", "mysql", "database design"],
+    "resources": [
+      {"name": "PostgreSQL Tutorial", "url": "https://www.postgresqltutorial.com/", "type": "tutorial"},
+      {"name": "PostgreSQL Exercises", "url": "https://pgexercises.com/", "type": "tutorial"}
+    ],
+    "certifications": ["EDB PostgreSQL Certified"]
+  },
+  "mysql": {
+    "level": "intermediate",
+    "category": "database",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["sql"],
+    "related": ["sql", "postgresql"],
+    "resources": [
+      {"name": "MySQL Tutorial", "url": "https://www.mysqltutorial.org/", "type": "tutorial"},
+      {"name": "MySQL Documentation", "url": "https://dev.mysql.com/doc/", "type": "documentation"}
+    ],
+    "certifications": ["MySQL Developer Certified"]
+  },
+  "mongodb": {
+    "level": "intermediate",
+    "category": "database",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["nosql", "redis", "node.js"],
+    "resources": [
+      {"name": "MongoDB University", "url": "https://university.mongodb.com/", "type": "course"},
+      {"name": "MongoDB Documentation", "url": "https://docs.mongodb.com/", "type": "documentation"}
+    ],
+    "certifications": ["MongoDB Certified Developer", "MongoDB Certified DBA"]
+  },
+  "redis": {
+    "level": "intermediate",
+    "category": "database",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": [],
+    "related": ["caching", "mongodb", "nosql"],
+    "resources": [
+      {"name": "Redis University", "url": "https://university.redis.com/", "type": "course"},
+      {"name": "Try Redis", "url": "https://try.redis.io/", "type": "tutorial"}
+    ],
+    "certifications": ["Redis Certified Developer"]
+  },
+  "elasticsearch": {
+    "level": "advanced",
+    "category": "database",
+    "importance": "medium",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["json", "rest api"],
+    "related": ["kibana", "logstash", "search"],
+    "resources": [
+      {"name": "Elastic Training", "url": "https://www.elastic.co/training/", "type": "course"},
+      {"name": "Elasticsearch Guide", "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/", "type": "documentation"}
+    ],
+    "certifications": ["Elastic Certified Engineer"]
+  },
+  "cassandra": {
+    "level": "advanced",
+    "category": "database",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["sql", "distributed systems"],
+    "related": ["nosql", "distributed databases", "cql"],
+    "resources": [
+      {"name": "DataStax Academy", "url": "https://academy.datastax.com/", "type": "course"},
+      {"name": "Cassandra Documentation", "url": "https://cassandra.apache.org/doc/latest/", "type": "documentation"}
+    ],
+    "certifications": ["DataStax Certified Cassandra Administrator"]
+  },
+  "neo4j": {
+    "level": "intermediate",
+    "category": "database",
+    "importance": "low",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["graph databases", "cypher"],
+    "resources": [
+      {"name": "Neo4j GraphAcademy", "url": "https://graphacademy.neo4j.com/", "type": "course"},
+      {"name": "Neo4j Documentation", "url": "https://neo4j.com/docs/", "type": "documentation"}
+    ],
+    "certifications": ["Neo4j Certified Professional"]
+  },
+  "dynamodb": {
+    "level": "intermediate",
+    "category": "database",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["aws"],
+    "related": ["aws", "nosql", "serverless"],
+    "resources": [
+      {"name": "DynamoDB Guide", "url": "https://www.dynamodbguide.com/", "type": "tutorial"},
+      {"name": "AWS DynamoDB Docs", "url": "https://docs.aws.amazon.com/dynamodb/", "type": "documentation"}
+    ],
+    "certifications": ["AWS Certified Developer"]
+  },
+  "oracle": {
+    "level": "advanced",
+    "category": "database",
+    "importance": "medium",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["sql"],
+    "related": ["sql", "pl/sql", "database administration"],
+    "resources": [
+      {"name": "Oracle Learning", "url": "https://education.oracle.com/", "type": "course"},
+      {"name": "Oracle Documentation", "url": "https://docs.oracle.com/en/database/", "type": "documentation"}
+    ],
+    "certifications": ["Oracle Database Administrator", "Oracle Database SQL Certified"]
+  },
+  "react": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "critical",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["javascript", "html", "css"],
+    "related": ["javascript", "redux", "next.js", "typescript"],
+    "resources": [
+      {"name": "React Documentation", "url": "https://react.dev/", "type": "documentation"},
+      {"name": "Scrimba React Course", "url": "https://scrimba.com/learn/learnreact", "type": "course"},
+      {"name": "Full Stack Open", "url": "https://fullstackopen.com/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "angular": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["typescript", "html", "css"],
+    "related": ["typescript", "rxjs", "ngrx"],
+    "resources": [
+      {"name": "Angular Tutorial", "url": "https://angular.io/tutorial", "type": "tutorial"},
+      {"name": "Angular University", "url": "https://angular-university.io/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "vue": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "medium",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["javascript", "html", "css"],
+    "related": ["javascript", "vuex", "nuxt.js"],
+    "resources": [
+      {"name": "Vue.js Guide", "url": "https://vuejs.org/guide/", "type": "documentation"},
+      {"name": "Vue Mastery", "url": "https://www.vuemastery.com/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "svelte": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["javascript", "html", "css"],
+    "related": ["sveltekit", "javascript"],
+    "resources": [
+      {"name": "Svelte Tutorial", "url": "https://svelte.dev/tutorial", "type": "tutorial"},
+      {"name": "Svelte Documentation", "url": "https://svelte.dev/docs", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "next.js": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["react"],
+    "related": ["react", "vercel", "ssr"],
+    "resources": [
+      {"name": "Next.js Documentation", "url": "https://nextjs.org/docs", "type": "documentation"},
+      {"name": "Next.js Learn", "url": "https://nextjs.org/learn", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "html": {
+    "level": "beginner",
+    "category": "frontend",
+    "importance": "critical",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": [],
+    "related": ["css", "javascript", "accessibility"],
+    "resources": [
+      {"name": "MDN HTML", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML", "type": "documentation"},
+      {"name": "freeCodeCamp HTML", "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "css": {
+    "level": "beginner",
+    "category": "frontend",
+    "importance": "critical",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["html"],
+    "related": ["html", "sass", "tailwind", "bootstrap"],
+    "resources": [
+      {"name": "CSS Tricks", "url": "https://css-tricks.com/", "type": "tutorial"},
+      {"name": "Flexbox Froggy", "url": "https://flexboxfroggy.com/", "type": "tutorial"},
+      {"name": "Grid Garden", "url": "https://cssgridgarden.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "tailwind": {
+    "level": "beginner",
+    "category": "frontend",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["css", "html"],
+    "related": ["css", "react", "utility-first css"],
+    "resources": [
+      {"name": "Tailwind Documentation", "url": "https://tailwindcss.com/docs", "type": "documentation"},
+      {"name": "Tailwind UI", "url": "https://tailwindui.com/", "type": "resource"}
+    ],
+    "certifications": []
+  },
+  "bootstrap": {
+    "level": "beginner",
+    "category": "frontend",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["html", "css"],
+    "related": ["css", "responsive design"],
+    "resources": [
+      {"name": "Bootstrap Documentation", "url": "https://getbootstrap.com/docs/", "type": "documentation"},
+      {"name": "Bootstrap Tutorial", "url": "https://www.w3schools.com/bootstrap5/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "sass": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["css"],
+    "related": ["css", "less", "css modules"],
+    "resources": [
+      {"name": "Sass Documentation", "url": "https://sass-lang.com/documentation", "type": "documentation"},
+      {"name": "Sass Guidelines", "url": "https://sass-guidelin.es/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "redux": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["react", "javascript"],
+    "related": ["react", "state management"],
+    "resources": [
+      {"name": "Redux Documentation", "url": "https://redux.js.org/", "type": "documentation"},
+      {"name": "Redux Toolkit", "url": "https://redux-toolkit.js.org/", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "webpack": {
+    "level": "intermediate",
+    "category": "frontend",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["javascript"],
+    "related": ["bundlers", "vite", "rollup"],
+    "resources": [
+      {"name": "Webpack Documentation", "url": "https://webpack.js.org/concepts/", "type": "documentation"},
+      {"name": "Webpack Academy", "url": "https://webpack.academy/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "node.js": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "critical",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["javascript"],
+    "related": ["javascript", "express", "mongodb", "npm"],
+    "resources": [
+      {"name": "Node.js Docs", "url": "https://nodejs.org/docs/latest/api/", "type": "documentation"},
+      {"name": "The Odin Project Node", "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs", "type": "course"},
+      {"name": "Node.js Design Patterns", "url": "https://www.nodejsdesignpatterns.com/", "type": "book"}
+    ],
+    "certifications": ["OpenJS Node.js Application Developer"]
+  },
+  "express": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["node.js"],
+    "related": ["node.js", "rest api", "middleware"],
+    "resources": [
+      {"name": "Express Documentation", "url": "https://expressjs.com/", "type": "documentation"},
+      {"name": "MDN Express Tutorial", "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "django": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["python", "sql"],
+    "related": ["python", "postgresql", "rest api", "django rest framework"],
+    "resources": [
+      {"name": "Django Documentation", "url": "https://docs.djangoproject.com/", "type": "documentation"},
+      {"name": "Django for Beginners", "url": "https://djangoforbeginners.com/", "type": "book"},
+      {"name": "Django Girls Tutorial", "url": "https://tutorial.djangogirls.org/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "flask": {
+    "level": "beginner",
+    "category": "backend",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["python"],
+    "related": ["python", "sql", "rest api"],
+    "resources": [
+      {"name": "Flask Documentation", "url": "https://flask.palletsprojects.com/", "type": "documentation"},
+      {"name": "Flask Mega-Tutorial", "url": "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "fastapi": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["python"],
+    "related": ["python", "rest api", "pydantic", "async"],
+    "resources": [
+      {"name": "FastAPI Documentation", "url": "https://fastapi.tiangolo.com/", "type": "documentation"},
+      {"name": "FastAPI Tutorial", "url": "https://fastapi.tiangolo.com/tutorial/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "spring boot": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["java"],
+    "related": ["java", "spring", "maven", "gradle", "hibernate"],
+    "resources": [
+      {"name": "Spring Guides", "url": "https://spring.io/guides", "type": "tutorial"},
+      {"name": "Spring Boot Reference", "url": "https://docs.spring.io/spring-boot/docs/current/reference/html/", "type": "documentation"},
+      {"name": "Baeldung Spring", "url": "https://www.baeldung.com/", "type": "tutorial"}
+    ],
+    "certifications": ["VMware Spring Professional"]
+  },
+  "laravel": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["php"],
+    "related": ["php", "mysql", "blade"],
+    "resources": [
+      {"name": "Laravel Documentation", "url": "https://laravel.com/docs", "type": "documentation"},
+      {"name": "Laracasts", "url": "https://laracasts.com/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "ruby on rails": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "medium",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["ruby"],
+    "related": ["ruby", "postgresql", "mvc"],
+    "resources": [
+      {"name": "Rails Guides", "url": "https://guides.rubyonrails.org/", "type": "documentation"},
+      {"name": "Rails Tutorial", "url": "https://www.railstutorial.org/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  ".net": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["c#"],
+    "related": ["c#", "asp.net", "azure"],
+    "resources": [
+      {"name": ".NET Documentation", "url": "https://docs.microsoft.com/en-us/dotnet/", "type": "documentation"},
+      {"name": "Microsoft Learn .NET", "url": "https://docs.microsoft.com/en-us/learn/dotnet/", "type": "course"}
+    ],
+    "certifications": ["Microsoft Certified: Azure Developer Associate"]
+  },
+  "graphql": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["rest api", "javascript"],
+    "related": ["rest api", "apollo", "node.js"],
+    "resources": [
+      {"name": "GraphQL Documentation", "url": "https://graphql.org/learn/", "type": "documentation"},
+      {"name": "How to GraphQL", "url": "https://www.howtographql.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "rest api": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "critical",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["http"],
+    "related": ["http", "json", "api design", "graphql"],
+    "resources": [
+      {"name": "REST API Tutorial", "url": "https://restfulapi.net/", "type": "tutorial"},
+      {"name": "API Design Patterns", "url": "https://www.manning.com/books/api-design-patterns", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "grpc": {
+    "level": "advanced",
+    "category": "backend",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["protocol buffers"],
+    "related": ["microservices", "protocol buffers"],
+    "resources": [
+      {"name": "gRPC Documentation", "url": "https://grpc.io/docs/", "type": "documentation"},
+      {"name": "gRPC Tutorial", "url": "https://grpc.io/docs/tutorials/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "docker": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "critical",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["linux"],
+    "related": ["kubernetes", "containerization", "ci/cd"],
+    "resources": [
+      {"name": "Docker Documentation", "url": "https://docs.docker.com/", "type": "documentation"},
+      {"name": "Docker Mastery - Udemy", "url": "https://www.udemy.com/course/docker-mastery/", "type": "course"},
+      {"name": "Play with Docker", "url": "https://labs.play-with-docker.com/", "type": "tutorial"}
+    ],
+    "certifications": ["Docker Certified Associate"]
+  },
+  "kubernetes": {
+    "level": "advanced",
+    "category": "devops",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["docker", "linux"],
+    "related": ["docker", "aws", "gcp", "azure", "helm"],
+    "resources": [
+      {"name": "Kubernetes Documentation", "url": "https://kubernetes.io/docs/home/", "type": "documentation"},
+      {"name": "KodeKloud", "url": "https://kodekloud.com/", "type": "course"},
+      {"name": "Kubernetes The Hard Way", "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way", "type": "tutorial"}
+    ],
+    "certifications": ["CKA", "CKAD", "CKS"]
+  },
+  "terraform": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["cloud basics"],
+    "related": ["aws", "azure", "gcp", "infrastructure as code"],
+    "resources": [
+      {"name": "Terraform Documentation", "url": "https://www.terraform.io/docs", "type": "documentation"},
+      {"name": "HashiCorp Learn", "url": "https://learn.hashicorp.com/terraform", "type": "tutorial"}
+    ],
+    "certifications": ["HashiCorp Terraform Associate"]
+  },
+  "ansible": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["linux", "yaml"],
+    "related": ["terraform", "puppet", "chef"],
+    "resources": [
+      {"name": "Ansible Documentation", "url": "https://docs.ansible.com/", "type": "documentation"},
+      {"name": "Ansible for DevOps", "url": "https://www.ansiblefordevops.com/", "type": "book"}
+    ],
+    "certifications": ["Red Hat Certified Specialist in Ansible"]
+  },
+  "jenkins": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["git"],
+    "related": ["ci/cd", "docker", "github actions"],
+    "resources": [
+      {"name": "Jenkins Documentation", "url": "https://www.jenkins.io/doc/", "type": "documentation"},
+      {"name": "Jenkins Tutorial", "url": "https://www.jenkins.io/doc/tutorials/", "type": "tutorial"}
+    ],
+    "certifications": ["Jenkins Engineer"]
+  },
+  "github actions": {
+    "level": "beginner",
+    "category": "devops",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["git"],
+    "related": ["ci/cd", "docker", "yaml"],
+    "resources": [
+      {"name": "GitHub Actions Documentation", "url": "https://docs.github.com/en/actions", "type": "documentation"},
+      {"name": "GitHub Learning Lab", "url": "https://lab.github.com/", "type": "tutorial"}
+    ],
+    "certifications": ["GitHub Actions"]
+  },
+  "gitlab ci": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["git"],
+    "related": ["ci/cd", "docker", "yaml"],
+    "resources": [
+      {"name": "GitLab CI/CD Documentation", "url": "https://docs.gitlab.com/ee/ci/", "type": "documentation"},
+      {"name": "GitLab CI/CD Tutorial", "url": "https://docs.gitlab.com/ee/ci/quick_start/", "type": "tutorial"}
+    ],
+    "certifications": ["GitLab Certified Associate"]
+  },
+  "prometheus": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["linux"],
+    "related": ["grafana", "monitoring", "alerting"],
+    "resources": [
+      {"name": "Prometheus Documentation", "url": "https://prometheus.io/docs/", "type": "documentation"},
+      {"name": "Prometheus Tutorial", "url": "https://prometheus.io/docs/prometheus/latest/getting_started/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "grafana": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": [],
+    "related": ["prometheus", "monitoring", "dashboards"],
+    "resources": [
+      {"name": "Grafana Documentation", "url": "https://grafana.com/docs/", "type": "documentation"},
+      {"name": "Grafana Tutorials", "url": "https://grafana.com/tutorials/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "helm": {
+    "level": "advanced",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["kubernetes"],
+    "related": ["kubernetes", "yaml"],
+    "resources": [
+      {"name": "Helm Documentation", "url": "https://helm.sh/docs/", "type": "documentation"},
+      {"name": "Helm Quickstart", "url": "https://helm.sh/docs/intro/quickstart/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "argocd": {
+    "level": "advanced",
+    "category": "devops",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["kubernetes", "git"],
+    "related": ["kubernetes", "gitops", "ci/cd"],
+    "resources": [
+      {"name": "ArgoCD Documentation", "url": "https://argo-cd.readthedocs.io/", "type": "documentation"},
+      {"name": "ArgoCD Getting Started", "url": "https://argo-cd.readthedocs.io/en/stable/getting_started/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "aws": {
+    "level": "intermediate",
+    "category": "cloud",
+    "importance": "critical",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["linux", "networking basics"],
+    "related": ["ec2", "s3", "lambda", "azure", "gcp"],
+    "resources": [
+      {"name": "AWS Training", "url": "https://aws.amazon.com/training/", "type": "course"},
+      {"name": "AWS Documentation", "url": "https://docs.aws.amazon.com/", "type": "documentation"},
+      {"name": "A Cloud Guru", "url": "https://acloudguru.com/", "type": "course"}
+    ],
+    "certifications": ["AWS Solutions Architect", "AWS Developer", "AWS SysOps Administrator", "AWS DevOps Engineer"]
+  },
+  "azure": {
+    "level": "intermediate",
+    "category": "cloud",
+    "importance": "high",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["linux", "networking basics"],
+    "related": ["aws", "gcp", "cloud computing"],
+    "resources": [
+      {"name": "Microsoft Learn", "url": "https://docs.microsoft.com/en-us/learn/azure/", "type": "course"},
+      {"name": "Azure Documentation", "url": "https://docs.microsoft.com/en-us/azure/", "type": "documentation"}
+    ],
+    "certifications": ["Azure Fundamentals", "Azure Administrator", "Azure Developer", "Azure Solutions Architect"]
+  },
+  "gcp": {
+    "level": "intermediate",
+    "category": "cloud",
+    "importance": "high",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["linux", "networking basics"],
+    "related": ["aws", "azure", "bigquery"],
+    "resources": [
+      {"name": "Google Cloud Training", "url": "https://cloud.google.com/training", "type": "course"},
+      {"name": "Google Cloud Documentation", "url": "https://cloud.google.com/docs", "type": "documentation"},
+      {"name": "Qwiklabs", "url": "https://www.qwiklabs.com/", "type": "tutorial"}
+    ],
+    "certifications": ["Associate Cloud Engineer", "Professional Cloud Architect", "Professional Data Engineer"]
+  },
+  "aws lambda": {
+    "level": "intermediate",
+    "category": "cloud",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["aws"],
+    "related": ["serverless", "api gateway", "dynamodb"],
+    "resources": [
+      {"name": "AWS Lambda Documentation", "url": "https://docs.aws.amazon.com/lambda/", "type": "documentation"},
+      {"name": "Serverless Framework", "url": "https://www.serverless.com/", "type": "tutorial"}
+    ],
+    "certifications": ["AWS Developer Associate"]
+  },
+  "aws ec2": {
+    "level": "intermediate",
+    "category": "cloud",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["aws", "linux"],
+    "related": ["aws", "load balancing", "auto scaling"],
+    "resources": [
+      {"name": "EC2 Documentation", "url": "https://docs.aws.amazon.com/ec2/", "type": "documentation"},
+      {"name": "EC2 User Guide", "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/", "type": "documentation"}
+    ],
+    "certifications": ["AWS Solutions Architect"]
+  },
+  "aws s3": {
+    "level": "beginner",
+    "category": "cloud",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["aws"],
+    "related": ["aws", "cloud storage", "cdn"],
+    "resources": [
+      {"name": "S3 Documentation", "url": "https://docs.aws.amazon.com/s3/", "type": "documentation"},
+      {"name": "S3 Getting Started", "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "machine learning": {
+    "level": "intermediate",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "12-16 weeks",
+    "prerequisites": ["python", "statistics", "linear algebra"],
+    "related": ["python", "scikit-learn", "tensorflow", "deep learning"],
+    "resources": [
+      {"name": "Machine Learning - Andrew Ng", "url": "https://www.coursera.org/learn/machine-learning", "type": "course"},
+      {"name": "Hands-On ML with Scikit-Learn", "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/", "type": "book"},
+      {"name": "Google ML Crash Course", "url": "https://developers.google.com/machine-learning/crash-course", "type": "course"}
+    ],
+    "certifications": ["TensorFlow Developer Certificate", "AWS ML Specialty"]
+  },
+  "deep learning": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "12-16 weeks",
+    "prerequisites": ["machine learning", "python", "linear algebra"],
+    "related": ["tensorflow", "pytorch", "neural networks", "computer vision", "nlp"],
+    "resources": [
+      {"name": "Deep Learning Specialization - Coursera", "url": "https://www.coursera.org/specializations/deep-learning", "type": "course"},
+      {"name": "Fast.ai", "url": "https://www.fast.ai/", "type": "course"},
+      {"name": "Deep Learning Book", "url": "https://www.deeplearningbook.org/", "type": "book"}
+    ],
+    "certifications": ["TensorFlow Developer Certificate"]
+  },
+  "tensorflow": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["python", "machine learning"],
+    "related": ["python", "keras", "deep learning"],
+    "resources": [
+      {"name": "TensorFlow Documentation", "url": "https://www.tensorflow.org/tutorials", "type": "tutorial"},
+      {"name": "TensorFlow Developer Certificate", "url": "https://www.tensorflow.org/certificate", "type": "certification"}
+    ],
+    "certifications": ["TensorFlow Developer Certificate"]
+  },
+  "pytorch": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["python", "machine learning"],
+    "related": ["python", "deep learning", "neural networks"],
+    "resources": [
+      {"name": "PyTorch Tutorials", "url": "https://pytorch.org/tutorials/", "type": "tutorial"},
+      {"name": "Deep Learning with PyTorch", "url": "https://www.manning.com/books/deep-learning-with-pytorch", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "scikit-learn": {
+    "level": "intermediate",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["python", "numpy", "pandas"],
+    "related": ["python", "machine learning", "pandas"],
+    "resources": [
+      {"name": "Scikit-learn Documentation", "url": "https://scikit-learn.org/stable/user_guide.html", "type": "documentation"},
+      {"name": "Scikit-learn Tutorials", "url": "https://scikit-learn.org/stable/tutorial/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "nlp": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "medium",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["python", "machine learning"],
+    "related": ["transformers", "huggingface", "spacy", "nltk"],
+    "resources": [
+      {"name": "NLP with Transformers", "url": "https://www.oreilly.com/library/view/natural-language-processing/", "type": "book"},
+      {"name": "Hugging Face Course", "url": "https://huggingface.co/course", "type": "course"},
+      {"name": "Stanford NLP Course", "url": "https://web.stanford.edu/class/cs224n/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "computer vision": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "medium",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["python", "deep learning"],
+    "related": ["opencv", "cnn", "image processing"],
+    "resources": [
+      {"name": "OpenCV Tutorials", "url": "https://docs.opencv.org/master/d9/df8/tutorial_root.html", "type": "tutorial"},
+      {"name": "Stanford CS231n", "url": "https://cs231n.stanford.edu/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "llm": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "critical",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["python", "nlp", "deep learning"],
+    "related": ["transformers", "gpt", "langchain", "prompt engineering"],
+    "resources": [
+      {"name": "LLM Course", "url": "https://github.com/mlabonne/llm-course", "type": "course"},
+      {"name": "Hugging Face Transformers", "url": "https://huggingface.co/docs/transformers", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "rag": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["llm", "vector databases"],
+    "related": ["llm", "langchain", "embeddings"],
+    "resources": [
+      {"name": "RAG from Scratch", "url": "https://github.com/langchain-ai/rag-from-scratch", "type": "tutorial"},
+      {"name": "LangChain RAG", "url": "https://python.langchain.com/docs/use_cases/question_answering/", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "mlops": {
+    "level": "advanced",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["machine learning", "docker", "ci/cd"],
+    "related": ["mlflow", "kubeflow", "model deployment"],
+    "resources": [
+      {"name": "MLOps Course", "url": "https://madewithml.com/", "type": "course"},
+      {"name": "Google MLOps", "url": "https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning", "type": "documentation"}
+    ],
+    "certifications": ["Google Cloud Professional ML Engineer"]
+  },
+  "opencv": {
+    "level": "intermediate",
+    "category": "ai_ml",
+    "importance": "medium",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["python"],
+    "related": ["computer vision", "image processing"],
+    "resources": [
+      {"name": "OpenCV Documentation", "url": "https://docs.opencv.org/", "type": "documentation"},
+      {"name": "OpenCV Python Tutorials", "url": "https://docs.opencv.org/master/d6/d00/tutorial_py_root.html", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "pandas": {
+    "level": "beginner",
+    "category": "data",
+    "importance": "critical",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["python"],
+    "related": ["python", "numpy", "data analysis"],
+    "resources": [
+      {"name": "Pandas Documentation", "url": "https://pandas.pydata.org/docs/", "type": "documentation"},
+      {"name": "Kaggle Pandas", "url": "https://www.kaggle.com/learn/pandas", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "numpy": {
+    "level": "beginner",
+    "category": "data",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["python"],
+    "related": ["python", "pandas", "scipy"],
+    "resources": [
+      {"name": "NumPy Documentation", "url": "https://numpy.org/doc/stable/user/", "type": "documentation"},
+      {"name": "NumPy Tutorial", "url": "https://numpy.org/doc/stable/user/quickstart.html", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "matplotlib": {
+    "level": "beginner",
+    "category": "data",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["python"],
+    "related": ["seaborn", "plotly", "data visualization"],
+    "resources": [
+      {"name": "Matplotlib Documentation", "url": "https://matplotlib.org/stable/tutorials/index.html", "type": "documentation"},
+      {"name": "Matplotlib Tutorials", "url": "https://matplotlib.org/stable/tutorials/index.html", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "seaborn": {
+    "level": "beginner",
+    "category": "data",
+    "importance": "medium",
+    "time_to_learn": "1 week",
+    "prerequisites": ["matplotlib", "pandas"],
+    "related": ["matplotlib", "data visualization"],
+    "resources": [
+      {"name": "Seaborn Documentation", "url": "https://seaborn.pydata.org/", "type": "documentation"},
+      {"name": "Seaborn Tutorial", "url": "https://seaborn.pydata.org/tutorial.html", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "plotly": {
+    "level": "intermediate",
+    "category": "data",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["python"],
+    "related": ["dash", "data visualization", "interactive charts"],
+    "resources": [
+      {"name": "Plotly Documentation", "url": "https://plotly.com/python/", "type": "documentation"},
+      {"name": "Plotly Tutorials", "url": "https://plotly.com/python/getting-started/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "spark": {
+    "level": "advanced",
+    "category": "data",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["python", "sql"],
+    "related": ["pyspark", "hadoop", "big data"],
+    "resources": [
+      {"name": "Spark Documentation", "url": "https://spark.apache.org/docs/latest/", "type": "documentation"},
+      {"name": "Databricks Academy", "url": "https://academy.databricks.com/", "type": "course"}
+    ],
+    "certifications": ["Databricks Certified Associate Developer", "Databricks Certified Data Engineer"]
+  },
+  "airflow": {
+    "level": "intermediate",
+    "category": "data",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["python"],
+    "related": ["data pipelines", "etl", "dag"],
+    "resources": [
+      {"name": "Airflow Documentation", "url": "https://airflow.apache.org/docs/", "type": "documentation"},
+      {"name": "Astronomer Academy", "url": "https://academy.astronomer.io/", "type": "course"}
+    ],
+    "certifications": ["Astronomer Certification for Apache Airflow"]
+  },
+  "dbt": {
+    "level": "intermediate",
+    "category": "data",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["sql"],
+    "related": ["data transformation", "analytics engineering", "snowflake"],
+    "resources": [
+      {"name": "dbt Documentation", "url": "https://docs.getdbt.com/", "type": "documentation"},
+      {"name": "dbt Learn", "url": "https://courses.getdbt.com/", "type": "course"}
+    ],
+    "certifications": ["dbt Analytics Engineering Certification"]
+  },
+  "snowflake": {
+    "level": "intermediate",
+    "category": "data",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["sql"],
+    "related": ["data warehousing", "cloud data platform"],
+    "resources": [
+      {"name": "Snowflake Documentation", "url": "https://docs.snowflake.com/", "type": "documentation"},
+      {"name": "Snowflake University", "url": "https://www.snowflake.com/snowflake-essentials-training/", "type": "course"}
+    ],
+    "certifications": ["SnowPro Core Certification", "SnowPro Advanced"]
+  },
+  "kafka": {
+    "level": "advanced",
+    "category": "data",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["distributed systems"],
+    "related": ["streaming", "event-driven", "message queue"],
+    "resources": [
+      {"name": "Confluent Kafka Documentation", "url": "https://docs.confluent.io/", "type": "documentation"},
+      {"name": "Kafka Tutorial", "url": "https://kafka.apache.org/documentation/", "type": "documentation"}
+    ],
+    "certifications": ["Confluent Certified Developer", "Confluent Certified Administrator"]
+  },
+  "tableau": {
+    "level": "intermediate",
+    "category": "analytics",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["sql", "data analysis"],
+    "related": ["data visualization", "power bi", "excel"],
+    "resources": [
+      {"name": "Tableau Training", "url": "https://www.tableau.com/learn/training", "type": "course"},
+      {"name": "Tableau Public Gallery", "url": "https://public.tableau.com/", "type": "resource"}
+    ],
+    "certifications": ["Tableau Desktop Specialist", "Tableau Certified Data Analyst"]
+  },
+  "power bi": {
+    "level": "intermediate",
+    "category": "analytics",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["sql", "excel"],
+    "related": ["tableau", "data visualization", "dax"],
+    "resources": [
+      {"name": "Power BI Learning Path", "url": "https://docs.microsoft.com/en-us/learn/powerplatform/power-bi", "type": "course"},
+      {"name": "Power BI Documentation", "url": "https://docs.microsoft.com/en-us/power-bi/", "type": "documentation"}
+    ],
+    "certifications": ["Microsoft Power BI Data Analyst"]
+  },
+  "excel": {
+    "level": "beginner",
+    "category": "analytics",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["data analysis", "power bi", "sql"],
+    "resources": [
+      {"name": "Excel Easy", "url": "https://www.excel-easy.com/", "type": "tutorial"},
+      {"name": "Microsoft Excel Training", "url": "https://support.microsoft.com/en-us/excel", "type": "tutorial"}
+    ],
+    "certifications": ["Microsoft Office Specialist: Excel"]
+  },
+  "looker": {
+    "level": "intermediate",
+    "category": "analytics",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["sql"],
+    "related": ["data visualization", "lookml"],
+    "resources": [
+      {"name": "Looker Documentation", "url": "https://cloud.google.com/looker/docs", "type": "documentation"},
+      {"name": "Google Cloud Looker", "url": "https://cloud.google.com/looker", "type": "course"}
+    ],
+    "certifications": ["Google Cloud Looker Business Analyst", "Google Cloud Looker Developer"]
+  },
+  "flutter": {
+    "level": "intermediate",
+    "category": "mobile",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["dart"],
+    "related": ["dart", "mobile development", "cross-platform"],
+    "resources": [
+      {"name": "Flutter Documentation", "url": "https://flutter.dev/docs", "type": "documentation"},
+      {"name": "Flutter Codelabs", "url": "https://flutter.dev/docs/codelabs", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "react native": {
+    "level": "intermediate",
+    "category": "mobile",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["react", "javascript"],
+    "related": ["react", "mobile development", "expo"],
+    "resources": [
+      {"name": "React Native Documentation", "url": "https://reactnative.dev/docs/getting-started", "type": "documentation"},
+      {"name": "React Native Tutorial", "url": "https://reactnative.dev/docs/tutorial", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "android": {
+    "level": "intermediate",
+    "category": "mobile",
+    "importance": "high",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["kotlin"],
+    "related": ["kotlin", "java", "android studio"],
+    "resources": [
+      {"name": "Android Developers", "url": "https://developer.android.com/", "type": "documentation"},
+      {"name": "Android Basics", "url": "https://developer.android.com/courses/android-basics-kotlin/course", "type": "course"}
+    ],
+    "certifications": ["Associate Android Developer"]
+  },
+  "ios": {
+    "level": "intermediate",
+    "category": "mobile",
+    "importance": "high",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["swift"],
+    "related": ["swift", "swiftui", "xcode"],
+    "resources": [
+      {"name": "Apple Developer Documentation", "url": "https://developer.apple.com/documentation/", "type": "documentation"},
+      {"name": "Stanford iOS Course", "url": "https://cs193p.sites.stanford.edu/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "git": {
+    "level": "beginner",
+    "category": "tools",
+    "importance": "critical",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": [],
+    "related": ["github", "gitlab", "version control"],
+    "resources": [
+      {"name": "Pro Git Book", "url": "https://git-scm.com/book/en/v2", "type": "book"},
+      {"name": "Learn Git Branching", "url": "https://learngitbranching.js.org/", "type": "tutorial"},
+      {"name": "GitHub Skills", "url": "https://skills.github.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "jira": {
+    "level": "beginner",
+    "category": "tools",
+    "importance": "high",
+    "time_to_learn": "1 week",
+    "prerequisites": [],
+    "related": ["agile", "project management", "confluence"],
+    "resources": [
+      {"name": "Atlassian University", "url": "https://university.atlassian.com/", "type": "course"},
+      {"name": "Jira Documentation", "url": "https://support.atlassian.com/jira-software-cloud/", "type": "documentation"}
+    ],
+    "certifications": ["ACP-620 Jira Administrator"]
+  },
+  "confluence": {
+    "level": "beginner",
+    "category": "tools",
+    "importance": "medium",
+    "time_to_learn": "1 week",
+    "prerequisites": [],
+    "related": ["jira", "documentation", "wiki"],
+    "resources": [
+      {"name": "Confluence Documentation", "url": "https://support.atlassian.com/confluence-cloud/", "type": "documentation"},
+      {"name": "Atlassian University", "url": "https://university.atlassian.com/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "figma": {
+    "level": "beginner",
+    "category": "tools",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["ui design", "prototyping", "design systems"],
+    "resources": [
+      {"name": "Figma Learn", "url": "https://www.figma.com/resources/learn-design/", "type": "tutorial"},
+      {"name": "Figma Help Center", "url": "https://help.figma.com/", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "postman": {
+    "level": "beginner",
+    "category": "tools",
+    "importance": "high",
+    "time_to_learn": "1 week",
+    "prerequisites": ["rest api"],
+    "related": ["api testing", "rest api"],
+    "resources": [
+      {"name": "Postman Learning Center", "url": "https://learning.postman.com/", "type": "tutorial"},
+      {"name": "Postman Documentation", "url": "https://learning.postman.com/docs/getting-started/introduction/", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "vscode": {
+    "level": "beginner",
+    "category": "tools",
+    "importance": "high",
+    "time_to_learn": "1 week",
+    "prerequisites": [],
+    "related": ["ide", "code editor", "extensions"],
+    "resources": [
+      {"name": "VS Code Documentation", "url": "https://code.visualstudio.com/docs", "type": "documentation"},
+      {"name": "VS Code Tips", "url": "https://code.visualstudio.com/docs/getstarted/tips-and-tricks", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "linux": {
+    "level": "intermediate",
+    "category": "systems",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["bash", "ubuntu", "shell scripting"],
+    "resources": [
+      {"name": "Linux Journey", "url": "https://linuxjourney.com/", "type": "tutorial"},
+      {"name": "Linux Command Line", "url": "https://linuxcommand.org/", "type": "tutorial"},
+      {"name": "LPIC-1 Study Guide", "url": "https://www.lpi.org/", "type": "book"}
+    ],
+    "certifications": ["LPIC-1", "LPIC-2", "RHCSA", "RHCE"]
+  },
+  "bash": {
+    "level": "beginner",
+    "category": "systems",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["linux"],
+    "related": ["linux", "shell scripting", "zsh"],
+    "resources": [
+      {"name": "Bash Guide for Beginners", "url": "https://tldp.org/LDP/Bash-Beginners-Guide/html/", "type": "book"},
+      {"name": "Shell Scripting Tutorial", "url": "https://www.shellscript.sh/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "networking": {
+    "level": "intermediate",
+    "category": "systems",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["tcp/ip", "dns", "http", "security"],
+    "resources": [
+      {"name": "Computer Networking - Coursera", "url": "https://www.coursera.org/learn/computer-networking", "type": "course"},
+      {"name": "Networking Fundamentals", "url": "https://www.networklessons.com/", "type": "tutorial"}
+    ],
+    "certifications": ["CompTIA Network+", "CCNA"]
+  },
+  "security": {
+    "level": "intermediate",
+    "category": "systems",
+    "importance": "high",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["networking", "linux"],
+    "related": ["owasp", "encryption", "penetration testing"],
+    "resources": [
+      {"name": "OWASP", "url": "https://owasp.org/", "type": "documentation"},
+      {"name": "TryHackMe", "url": "https://tryhackme.com/", "type": "tutorial"},
+      {"name": "HackTheBox Academy", "url": "https://academy.hackthebox.com/", "type": "course"}
+    ],
+    "certifications": ["CompTIA Security+", "CEH", "OSCP"]
+  },
+  "oauth": {
+    "level": "intermediate",
+    "category": "systems",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["rest api"],
+    "related": ["jwt", "authentication", "security"],
+    "resources": [
+      {"name": "OAuth 2.0", "url": "https://oauth.net/2/", "type": "documentation"},
+      {"name": "Auth0 Documentation", "url": "https://auth0.com/docs/", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "jwt": {
+    "level": "intermediate",
+    "category": "systems",
+    "importance": "high",
+    "time_to_learn": "1 week",
+    "prerequisites": ["rest api"],
+    "related": ["oauth", "authentication", "security"],
+    "resources": [
+      {"name": "JWT.io", "url": "https://jwt.io/", "type": "documentation"},
+      {"name": "JWT Handbook", "url": "https://auth0.com/resources/ebooks/jwt-handbook", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "agile": {
+    "level": "beginner",
+    "category": "methodology",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": [],
+    "related": ["scrum", "kanban", "jira"],
+    "resources": [
+      {"name": "Agile Manifesto", "url": "https://agilemanifesto.org/", "type": "documentation"},
+      {"name": "Atlassian Agile Coach", "url": "https://www.atlassian.com/agile", "type": "tutorial"}
+    ],
+    "certifications": ["PMI-ACP", "SAFe Agilist"]
+  },
+  "scrum": {
+    "level": "beginner",
+    "category": "methodology",
+    "importance": "high",
+    "time_to_learn": "1 week",
+    "prerequisites": ["agile"],
+    "related": ["agile", "kanban", "sprint"],
+    "resources": [
+      {"name": "Scrum Guide", "url": "https://scrumguides.org/", "type": "documentation"},
+      {"name": "Scrum.org Learning Path", "url": "https://www.scrum.org/pathway/", "type": "course"}
+    ],
+    "certifications": ["PSM I", "PSM II", "CSM"]
+  },
+  "kanban": {
+    "level": "beginner",
+    "category": "methodology",
+    "importance": "medium",
+    "time_to_learn": "1 week",
+    "prerequisites": [],
+    "related": ["agile", "scrum", "lean"],
+    "resources": [
+      {"name": "Kanban Guide", "url": "https://kanban.university/kanban-guide/", "type": "documentation"},
+      {"name": "Atlassian Kanban", "url": "https://www.atlassian.com/agile/kanban", "type": "tutorial"}
+    ],
+    "certifications": ["KMP", "TKP"]
+  },
+  "system design": {
+    "level": "advanced",
+    "category": "architecture",
+    "importance": "critical",
+    "time_to_learn": "8-12 weeks",
+    "prerequisites": ["databases", "networking", "distributed systems"],
+    "related": ["microservices", "scalability", "distributed systems"],
+    "resources": [
+      {"name": "System Design Primer", "url": "https://github.com/donnemartin/system-design-primer", "type": "tutorial"},
+      {"name": "Designing Data-Intensive Applications", "url": "https://dataintensive.net/", "type": "book"},
+      {"name": "ByteByteGo", "url": "https://bytebytego.com/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "microservices": {
+    "level": "advanced",
+    "category": "architecture",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": ["docker", "rest api", "distributed systems"],
+    "related": ["docker", "kubernetes", "api gateway"],
+    "resources": [
+      {"name": "Microservices.io", "url": "https://microservices.io/", "type": "documentation"},
+      {"name": "Building Microservices", "url": "https://www.oreilly.com/library/view/building-microservices-2nd/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "event-driven architecture": {
+    "level": "advanced",
+    "category": "architecture",
+    "importance": "medium",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": ["distributed systems"],
+    "related": ["kafka", "message queues", "cqrs"],
+    "resources": [
+      {"name": "Event-Driven Architecture", "url": "https://aws.amazon.com/event-driven-architecture/", "type": "documentation"},
+      {"name": "Building Event-Driven Microservices", "url": "https://www.oreilly.com/library/view/building-event-driven-microservices/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "data structures": {
+    "level": "beginner",
+    "category": "fundamentals",
+    "importance": "critical",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["algorithms", "problem solving"],
+    "resources": [
+      {"name": "Visualgo", "url": "https://visualgo.net/", "type": "tutorial"},
+      {"name": "Data Structures - UCSD", "url": "https://www.coursera.org/learn/data-structures", "type": "course"},
+      {"name": "LeetCode Explore", "url": "https://leetcode.com/explore/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "algorithms": {
+    "level": "intermediate",
+    "category": "fundamentals",
+    "importance": "critical",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": ["data structures"],
+    "related": ["data structures", "problem solving", "complexity analysis"],
+    "resources": [
+      {"name": "Introduction to Algorithms (MIT)", "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/", "type": "course"},
+      {"name": "Algorithms - Sedgewick", "url": "https://algs4.cs.princeton.edu/home/", "type": "book"},
+      {"name": "NeetCode", "url": "https://neetcode.io/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "statistics": {
+    "level": "intermediate",
+    "category": "fundamentals",
+    "importance": "high",
+    "time_to_learn": "6-8 weeks",
+    "prerequisites": [],
+    "related": ["probability", "data analysis", "machine learning"],
+    "resources": [
+      {"name": "Statistics - Khan Academy", "url": "https://www.khanacademy.org/math/statistics-probability", "type": "course"},
+      {"name": "Think Stats", "url": "https://greenteapress.com/thinkstats/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "linear algebra": {
+    "level": "intermediate",
+    "category": "fundamentals",
+    "importance": "medium",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["machine learning", "deep learning", "computer graphics"],
+    "resources": [
+      {"name": "Linear Algebra - MIT", "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/", "type": "course"},
+      {"name": "3Blue1Brown Linear Algebra", "url": "https://www.3blue1brown.com/topics/linear-algebra", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "testing": {
+    "level": "intermediate",
+    "category": "quality",
+    "importance": "high",
+    "time_to_learn": "3-4 weeks",
+    "prerequisites": [],
+    "related": ["unit testing", "integration testing", "tdd"],
+    "resources": [
+      {"name": "Test Driven Development", "url": "https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530", "type": "book"},
+      {"name": "Testing JavaScript", "url": "https://testingjavascript.com/", "type": "course"}
+    ],
+    "certifications": ["ISTQB Foundation"]
+  },
+  "jest": {
+    "level": "intermediate",
+    "category": "quality",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["javascript"],
+    "related": ["testing", "react testing library"],
+    "resources": [
+      {"name": "Jest Documentation", "url": "https://jestjs.io/docs/getting-started", "type": "documentation"},
+      {"name": "Jest Tutorial", "url": "https://jestjs.io/docs/tutorial-react", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "pytest": {
+    "level": "intermediate",
+    "category": "quality",
+    "importance": "high",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["python"],
+    "related": ["testing", "python"],
+    "resources": [
+      {"name": "Pytest Documentation", "url": "https://docs.pytest.org/", "type": "documentation"},
+      {"name": "Python Testing with pytest", "url": "https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "selenium": {
+    "level": "intermediate",
+    "category": "quality",
+    "importance": "medium",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["python"],
+    "related": ["web automation", "e2e testing", "cypress"],
+    "resources": [
+      {"name": "Selenium Documentation", "url": "https://www.selenium.dev/documentation/", "type": "documentation"},
+      {"name": "Selenium WebDriver", "url": "https://www.selenium.dev/documentation/webdriver/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "cypress": {
+    "level": "intermediate",
+    "category": "quality",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["javascript"],
+    "related": ["e2e testing", "selenium", "playwright"],
+    "resources": [
+      {"name": "Cypress Documentation", "url": "https://docs.cypress.io/", "type": "documentation"},
+      {"name": "Cypress Tutorial", "url": "https://docs.cypress.io/guides/getting-started/writing-your-first-test", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "ci/cd": {
+    "level": "intermediate",
+    "category": "devops",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["git", "docker"],
+    "related": ["jenkins", "github actions", "gitlab ci"],
+    "resources": [
+      {"name": "CI/CD with Docker and Kubernetes", "url": "https://www.manning.com/books/ci-cd-with-docker-and-kubernetes", "type": "book"},
+      {"name": "DevOps CI/CD Course", "url": "https://www.coursera.org/learn/continuous-integration-continuous-delivery", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "api design": {
+    "level": "intermediate",
+    "category": "backend",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["rest api"],
+    "related": ["rest api", "graphql", "openapi"],
+    "resources": [
+      {"name": "API Design Patterns", "url": "https://www.manning.com/books/api-design-patterns", "type": "book"},
+      {"name": "Google API Design Guide", "url": "https://cloud.google.com/apis/design", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "prompt engineering": {
+    "level": "beginner",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": [],
+    "related": ["llm", "gpt", "claude"],
+    "resources": [
+      {"name": "Prompt Engineering Guide", "url": "https://www.promptingguide.ai/", "type": "tutorial"},
+      {"name": "OpenAI Prompt Engineering", "url": "https://platform.openai.com/docs/guides/prompt-engineering", "type": "documentation"},
+      {"name": "Learn Prompting", "url": "https://learnprompting.org/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "langchain": {
+    "level": "intermediate",
+    "category": "ai_ml",
+    "importance": "high",
+    "time_to_learn": "2-3 weeks",
+    "prerequisites": ["python", "llm"],
+    "related": ["llm", "rag", "vector databases"],
+    "resources": [
+      {"name": "LangChain Documentation", "url": "https://python.langchain.com/docs/", "type": "documentation"},
+      {"name": "LangChain Crash Course", "url": "https://www.youtube.com/watch?v=lG7Uxts9SXs", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "vector databases": {
+    "level": "intermediate",
+    "category": "ai_ml",
+    "importance": "medium",
+    "time_to_learn": "1-2 weeks",
+    "prerequisites": ["embeddings"],
+    "related": ["pinecone", "weaviate", "rag"],
+    "resources": [
+      {"name": "Pinecone Documentation", "url": "https://docs.pinecone.io/", "type": "documentation"},
+      {"name": "Weaviate Documentation", "url": "https://weaviate.io/developers/weaviate", "type": "documentation"}
+    ],
+    "certifications": []
+  },
+  "communication": {
+    "level": "beginner",
+    "category": "soft_skills",
+    "importance": "critical",
+    "time_to_learn": "ongoing",
+    "prerequisites": [],
+    "related": ["presentation", "technical writing", "collaboration"],
+    "resources": [
+      {"name": "Crucial Conversations", "url": "https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822", "type": "book"},
+      {"name": "Harvard Business Communication", "url": "https://online.hbs.edu/courses/business-communication/", "type": "course"}
+    ],
+    "certifications": []
+  },
+  "leadership": {
+    "level": "intermediate",
+    "category": "soft_skills",
+    "importance": "high",
+    "time_to_learn": "ongoing",
+    "prerequisites": [],
+    "related": ["management", "team building", "mentoring"],
+    "resources": [
+      {"name": "The Manager's Path", "url": "https://www.oreilly.com/library/view/the-managers-path/", "type": "book"},
+      {"name": "Engineering Management for the Rest of Us", "url": "https://www.engmanagement.dev/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "problem solving": {
+    "level": "beginner",
+    "category": "soft_skills",
+    "importance": "critical",
+    "time_to_learn": "ongoing",
+    "prerequisites": [],
+    "related": ["critical thinking", "debugging", "algorithms"],
+    "resources": [
+      {"name": "Think Like a Programmer", "url": "https://www.nostarch.com/thinklikeaprogrammer", "type": "book"},
+      {"name": "LeetCode", "url": "https://leetcode.com/", "type": "tutorial"}
+    ],
+    "certifications": []
+  },
+  "time management": {
+    "level": "beginner",
+    "category": "soft_skills",
+    "importance": "high",
+    "time_to_learn": "ongoing",
+    "prerequisites": [],
+    "related": ["productivity", "prioritization", "planning"],
+    "resources": [
+      {"name": "Getting Things Done", "url": "https://gettingthingsdone.com/", "type": "book"},
+      {"name": "Deep Work", "url": "https://www.calnewport.com/books/deep-work/", "type": "book"}
+    ],
+    "certifications": []
+  },
+  "technical writing": {
+    "level": "intermediate",
+    "category": "soft_skills",
+    "importance": "high",
+    "time_to_learn": "4-6 weeks",
+    "prerequisites": [],
+    "related": ["documentation", "communication"],
+    "resources": [
+      {"name": "Google Technical Writing", "url": "https://developers.google.com/tech-writing", "type": "course"},
+      {"name": "Write the Docs", "url": "https://www.writethedocs.org/guide/", "type": "documentation"}
+    ],
+    "certifications": []
+  }
+}

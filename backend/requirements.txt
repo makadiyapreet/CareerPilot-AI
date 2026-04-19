@@ -1,0 +1,46 @@
+# ============================================
+# CareerBoost AI - Backend Requirements
+# Python 3.10+
+# ============================================
+# Install: pip install -r requirements.txt
+# Run: uvicorn main:app --reload --port 8000
+# Docs: http://localhost:8000/docs
+# ============================================
+
+# Web Framework
+fastapi>=0.104.0,<1.0.0
+uvicorn[standard]>=0.24.0,<1.0.0
+
+# Database
+sqlalchemy>=2.0.0,<3.0.0
+
+# Authentication
+python-jose[cryptography]>=3.3.0,<4.0.0
+bcrypt>=4.0.0,<5.0.0
+
+# File Uploads
+python-multipart>=0.0.6,<1.0.0
+
+# PDF Processing
+PyMuPDF>=1.23.0,<2.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0,<2.0.0
+
+# Validation
+pydantic[email]>=2.0.0,<3.0.0
+
+# AI/ML Dependencies (for AI module integration)
+scikit-learn>=1.3.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+nltk>=3.8.0,<4.0.0
+
+# ============================================
+# Quick Setup:
+# ============================================
+# pip install -r requirements.txt
+# python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab'); nltk.download('stopwords'); nltk.download('wordnet')"
+# uvicorn main:app --reload --port 8000
+#
+# ============================================

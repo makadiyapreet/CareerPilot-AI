@@ -1,0 +1,3576 @@
+{
+  "Data Analyst": {
+    "description": "Analyze data to help organizations make informed business decisions",
+    "total_duration": "16-20 weeks",
+    "salary_range": "$55,000 - $95,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Excel & Spreadsheets",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Master advanced Excel functions, pivot tables, and data manipulation",
+        "milestones": [
+          "Create pivot tables",
+          "Use VLOOKUP/INDEX-MATCH",
+          "Build dashboards"
+        ],
+        "resources": [
+          {
+            "name": "Excel for Data Analysis - Coursera",
+            "url": "https://www.coursera.org/learn/excel-data-analysis",
+            "type": "course"
+          },
+          {
+            "name": "Microsoft Excel Training",
+            "url": "https://support.microsoft.com/en-us/excel",
+            "type": "tutorial"
+          },
+          {
+            "name": "ExcelJet Formulas",
+            "url": "https://exceljet.net/formulas",
+            "type": "reference"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "SQL Fundamentals",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Learn SQL for querying databases and data retrieval",
+        "milestones": [
+          "Write SELECT queries",
+          "Use JOINs",
+          "Aggregate functions",
+          "Subqueries"
+        ],
+        "resources": [
+          {
+            "name": "SQLZoo Interactive Tutorial",
+            "url": "https://sqlzoo.net/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Mode Analytics SQL Tutorial",
+            "url": "https://mode.com/sql-tutorial/",
+            "type": "tutorial"
+          },
+          {
+            "name": "SQL for Data Science - Coursera",
+            "url": "https://www.coursera.org/learn/sql-for-data-science",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Python for Data Analysis",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Master Python with Pandas, NumPy for data manipulation",
+        "milestones": [
+          "DataFrames",
+          "Data cleaning",
+          "Merging datasets",
+          "Time series"
+        ],
+        "resources": [
+          {
+            "name": "Kaggle Python Course",
+            "url": "https://www.kaggle.com/learn/python",
+            "type": "course"
+          },
+          {
+            "name": "DataCamp Pandas Fundamentals",
+            "url": "https://www.datacamp.com/courses/pandas-foundations",
+            "type": "course"
+          },
+          {
+            "name": "Python for Data Analysis Book",
+            "url": "https://wesmckinney.com/book/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Data Visualization",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Create compelling visualizations with Matplotlib, Seaborn, and Tableau",
+        "milestones": [
+          "Charts and graphs",
+          "Interactive dashboards",
+          "Storytelling with data"
+        ],
+        "resources": [
+          {
+            "name": "Tableau Public Tutorials",
+            "url": "https://public.tableau.com/app/learn/how-to-videos",
+            "type": "tutorial"
+          },
+          {
+            "name": "Matplotlib Tutorial",
+            "url": "https://matplotlib.org/stable/tutorials/",
+            "type": "documentation"
+          },
+          {
+            "name": "Storytelling with Data",
+            "url": "https://www.storytellingwithdata.com/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Statistics & Probability",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Understand descriptive and inferential statistics",
+        "milestones": [
+          "Hypothesis testing",
+          "Confidence intervals",
+          "Regression basics"
+        ],
+        "resources": [
+          {
+            "name": "Khan Academy Statistics",
+            "url": "https://www.khanacademy.org/math/statistics-probability",
+            "type": "course"
+          },
+          {
+            "name": "Statistics with Python - Coursera",
+            "url": "https://www.coursera.org/specializations/statistics-with-python",
+            "type": "course"
+          },
+          {
+            "name": "Think Stats",
+            "url": "https://greenteapress.com/thinkstats2/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Portfolio Projects",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build 3-4 portfolio projects demonstrating your skills",
+        "milestones": [
+          "EDA project",
+          "Dashboard project",
+          "Predictive analysis project"
+        ],
+        "resources": [
+          {
+            "name": "Kaggle Datasets",
+            "url": "https://www.kaggle.com/datasets",
+            "type": "resource"
+          },
+          {
+            "name": "Data.gov Open Datasets",
+            "url": "https://data.gov/",
+            "type": "resource"
+          },
+          {
+            "name": "GitHub Portfolio Guide",
+            "url": "https://github.com/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Machine Learning Engineer": {
+    "description": "Build and deploy machine learning models at scale",
+    "total_duration": "24-28 weeks",
+    "salary_range": "$100,000 - $180,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Python Programming",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Strong Python foundation including OOP and best practices",
+        "milestones": [
+          "Classes and objects",
+          "Decorators",
+          "Error handling",
+          "Testing"
+        ],
+        "resources": [
+          {
+            "name": "Python for Everybody - Coursera",
+            "url": "https://www.coursera.org/specializations/python",
+            "type": "course"
+          },
+          {
+            "name": "Automate the Boring Stuff",
+            "url": "https://automatetheboringstuff.com/",
+            "type": "book"
+          },
+          {
+            "name": "Real Python Tutorials",
+            "url": "https://realpython.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Mathematics & Statistics",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Linear algebra, calculus, probability, and statistics fundamentals",
+        "milestones": [
+          "Matrix operations",
+          "Derivatives",
+          "Probability distributions",
+          "Bayesian thinking"
+        ],
+        "resources": [
+          {
+            "name": "Khan Academy Linear Algebra",
+            "url": "https://www.khanacademy.org/math/linear-algebra",
+            "type": "course"
+          },
+          {
+            "name": "3Blue1Brown YouTube Channel",
+            "url": "https://www.youtube.com/c/3blue1brown",
+            "type": "tutorial"
+          },
+          {
+            "name": "Mathematics for Machine Learning",
+            "url": "https://mml-book.github.io/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Machine Learning Fundamentals",
+        "duration": "6 weeks",
+        "priority": "critical",
+        "description": "Core ML algorithms, model evaluation, and scikit-learn",
+        "milestones": [
+          "Supervised learning",
+          "Unsupervised learning",
+          "Model evaluation",
+          "Feature engineering"
+        ],
+        "resources": [
+          {
+            "name": "Machine Learning by Andrew Ng - Coursera",
+            "url": "https://www.coursera.org/learn/machine-learning",
+            "type": "course"
+          },
+          {
+            "name": "Hands-On ML with Scikit-Learn",
+            "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/",
+            "type": "book"
+          },
+          {
+            "name": "Google ML Crash Course",
+            "url": "https://developers.google.com/machine-learning/crash-course",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Deep Learning",
+        "duration": "6 weeks",
+        "priority": "critical",
+        "description": "Neural networks, CNNs, RNNs, and transformers",
+        "milestones": [
+          "Build neural networks",
+          "CNNs for vision",
+          "RNNs for sequences",
+          "Transfer learning"
+        ],
+        "resources": [
+          {
+            "name": "Deep Learning Specialization - Coursera",
+            "url": "https://www.coursera.org/specializations/deep-learning",
+            "type": "course"
+          },
+          {
+            "name": "Fast.ai Practical Deep Learning",
+            "url": "https://course.fast.ai/",
+            "type": "course"
+          },
+          {
+            "name": "PyTorch Tutorials",
+            "url": "https://pytorch.org/tutorials/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "MLOps & Deployment",
+        "duration": "4 weeks",
+        "priority": "high",
+        "description": "Model deployment, monitoring, and CI/CD for ML",
+        "milestones": [
+          "Docker for ML",
+          "Model serving",
+          "ML pipelines",
+          "Monitoring"
+        ],
+        "resources": [
+          {
+            "name": "MLOps Specialization - Coursera",
+            "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+            "type": "course"
+          },
+          {
+            "name": "Made With ML",
+            "url": "https://madewithml.com/",
+            "type": "course"
+          },
+          {
+            "name": "AWS SageMaker Tutorials",
+            "url": "https://aws.amazon.com/sagemaker/getting-started/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Cloud & Infrastructure",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Cloud platforms for ML workloads",
+        "milestones": [
+          "AWS/GCP basics",
+          "GPU computing",
+          "Model deployment",
+          "Cost optimization"
+        ],
+        "resources": [
+          {
+            "name": "AWS Machine Learning",
+            "url": "https://aws.amazon.com/machine-learning/",
+            "type": "documentation"
+          },
+          {
+            "name": "Google Cloud ML",
+            "url": "https://cloud.google.com/products/ai",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Portfolio Projects",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build end-to-end ML projects with deployment",
+        "milestones": [
+          "Kaggle competitions",
+          "Deployed ML app",
+          "Open source contribution"
+        ],
+        "resources": [
+          {
+            "name": "Kaggle Competitions",
+            "url": "https://www.kaggle.com/competitions",
+            "type": "resource"
+          },
+          {
+            "name": "Papers With Code",
+            "url": "https://paperswithcode.com/",
+            "type": "resource"
+          },
+          {
+            "name": "GitHub ML Project Ideas",
+            "url": "https://github.com/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Frontend Developer": {
+    "description": "Build user interfaces and client-side web applications",
+    "total_duration": "16-20 weeks",
+    "salary_range": "$70,000 - $130,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "HTML & CSS Fundamentals",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Master semantic HTML and CSS layout techniques",
+        "milestones": [
+          "Semantic HTML",
+          "Flexbox",
+          "CSS Grid",
+          "Responsive design"
+        ],
+        "resources": [
+          {
+            "name": "freeCodeCamp Responsive Web Design",
+            "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+            "type": "course"
+          },
+          {
+            "name": "MDN Web Docs",
+            "url": "https://developer.mozilla.org/",
+            "type": "documentation"
+          },
+          {
+            "name": "CSS Tricks",
+            "url": "https://css-tricks.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "JavaScript",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Core JavaScript including ES6+ features and DOM manipulation",
+        "milestones": [
+          "ES6+ syntax",
+          "DOM manipulation",
+          "Async/await",
+          "Fetch API"
+        ],
+        "resources": [
+          {
+            "name": "JavaScript.info Tutorial",
+            "url": "https://javascript.info/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Eloquent JavaScript Book",
+            "url": "https://eloquentjavascript.net/",
+            "type": "book"
+          },
+          {
+            "name": "freeCodeCamp JavaScript Course",
+            "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "React",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build component-based UIs with React and hooks",
+        "milestones": [
+          "Components",
+          "Hooks",
+          "State management",
+          "React Router"
+        ],
+        "resources": [
+          {
+            "name": "React Official Tutorial",
+            "url": "https://react.dev/learn",
+            "type": "tutorial"
+          },
+          {
+            "name": "Scrimba React Course",
+            "url": "https://scrimba.com/learn/learnreact",
+            "type": "course"
+          },
+          {
+            "name": "Full Stack Open",
+            "url": "https://fullstackopen.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "CSS Frameworks & Tools",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Modern CSS with Tailwind, Sass, and CSS-in-JS",
+        "milestones": [
+          "Tailwind CSS",
+          "Sass/SCSS",
+          "Styled Components"
+        ],
+        "resources": [
+          {
+            "name": "Tailwind CSS Documentation",
+            "url": "https://tailwindcss.com/docs",
+            "type": "documentation"
+          },
+          {
+            "name": "Sass Documentation",
+            "url": "https://sass-lang.com/documentation",
+            "type": "documentation"
+          },
+          {
+            "name": "Styled Components",
+            "url": "https://styled-components.com/docs",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "TypeScript",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Add type safety to JavaScript applications",
+        "milestones": [
+          "Type annotations",
+          "Interfaces",
+          "Generics",
+          "React with TypeScript"
+        ],
+        "resources": [
+          {
+            "name": "TypeScript Handbook",
+            "url": "https://www.typescriptlang.org/docs/handbook/",
+            "type": "documentation"
+          },
+          {
+            "name": "TypeScript Deep Dive",
+            "url": "https://basarat.gitbook.io/typescript/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Testing & Quality",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Testing React applications with Jest and React Testing Library",
+        "milestones": [
+          "Unit tests",
+          "Integration tests",
+          "E2E with Cypress"
+        ],
+        "resources": [
+          {
+            "name": "Testing JavaScript",
+            "url": "https://testingjavascript.com/",
+            "type": "course"
+          },
+          {
+            "name": "React Testing Library",
+            "url": "https://testing-library.com/docs/react-testing-library/intro/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Build Tools & Deployment",
+        "duration": "1 week",
+        "priority": "medium",
+        "description": "Webpack, Vite, and deployment platforms",
+        "milestones": [
+          "Bundling",
+          "Optimization",
+          "Vercel/Netlify deployment"
+        ],
+        "resources": [
+          {
+            "name": "Vite Documentation",
+            "url": "https://vitejs.dev/guide/",
+            "type": "documentation"
+          },
+          {
+            "name": "Vercel Deployment Guide",
+            "url": "https://vercel.com/docs",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "Portfolio Projects",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Build and deploy real-world projects",
+        "milestones": [
+          "Personal portfolio",
+          "Clone project",
+          "Full-featured app"
+        ],
+        "resources": [
+          {
+            "name": "Frontend Mentor Challenges",
+            "url": "https://www.frontendmentor.io/",
+            "type": "resource"
+          },
+          {
+            "name": "100 Days of CSS",
+            "url": "https://100dayscss.com/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Backend Developer": {
+    "description": "Build server-side applications, APIs, and database systems",
+    "total_duration": "16-20 weeks",
+    "salary_range": "$75,000 - $140,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Programming Language",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Master a backend language (Python, Node.js, or Java)",
+        "milestones": [
+          "Syntax mastery",
+          "OOP concepts",
+          "Error handling",
+          "File I/O"
+        ],
+        "resources": [
+          {
+            "name": "Python/Node.js/Java Fundamentals",
+            "url": "https://www.codecademy.com/",
+            "type": "course"
+          },
+          {
+            "name": "The Odin Project Backend",
+            "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Databases",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "SQL and NoSQL databases with design principles",
+        "milestones": [
+          "SQL queries",
+          "CRUD operations",
+          "Database design",
+          "Indexing"
+        ],
+        "resources": [
+          {
+            "name": "PostgreSQL Tutorial",
+            "url": "https://www.postgresqltutorial.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "MongoDB University",
+            "url": "https://university.mongodb.com/",
+            "type": "course"
+          },
+          {
+            "name": "Database Design Course",
+            "url": "https://www.coursera.org/learn/database-management",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "API Development",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Build RESTful APIs with proper design patterns",
+        "milestones": [
+          "REST principles",
+          "CRUD endpoints",
+          "Error handling",
+          "Documentation"
+        ],
+        "resources": [
+          {
+            "name": "RESTful API Design - LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/",
+            "type": "course"
+          },
+          {
+            "name": "FastAPI Tutorial",
+            "url": "https://fastapi.tiangolo.com/tutorial/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Express.js Guide",
+            "url": "https://expressjs.com/en/guide/routing.html",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Authentication & Security",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Implement secure authentication and authorization",
+        "milestones": [
+          "JWT tokens",
+          "OAuth 2.0",
+          "Password hashing",
+          "HTTPS"
+        ],
+        "resources": [
+          {
+            "name": "OWASP Security Guide",
+            "url": "https://owasp.org/www-project-web-security-testing-guide/",
+            "type": "documentation"
+          },
+          {
+            "name": "JWT Authentication Tutorial",
+            "url": "https://jwt.io/introduction",
+            "type": "tutorial"
+          },
+          {
+            "name": "OAuth 2.0 Explained",
+            "url": "https://oauth.net/2/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Caching & Performance",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Implement caching strategies and optimize performance",
+        "milestones": [
+          "Redis caching",
+          "Query optimization",
+          "Load balancing"
+        ],
+        "resources": [
+          {
+            "name": "Redis University",
+            "url": "https://university.redis.com/",
+            "type": "course"
+          },
+          {
+            "name": "High Performance Browser Networking",
+            "url": "https://hpbn.co/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Deployment & DevOps",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Deploy applications with Docker and CI/CD",
+        "milestones": [
+          "Docker containers",
+          "CI/CD pipelines",
+          "Cloud deployment"
+        ],
+        "resources": [
+          {
+            "name": "Docker Basics",
+            "url": "https://docs.docker.com/get-started/",
+            "type": "tutorial"
+          },
+          {
+            "name": "AWS/Heroku Deployment",
+            "url": "https://devcenter.heroku.com/",
+            "type": "documentation"
+          },
+          {
+            "name": "GitHub Actions Guide",
+            "url": "https://docs.github.com/en/actions",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Portfolio Projects",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Build production-ready backend projects",
+        "milestones": [
+          "REST API project",
+          "Authentication system",
+          "Open source contribution"
+        ],
+        "resources": [
+          {
+            "name": "Build a REST API Project",
+            "url": "https://github.com/",
+            "type": "resource"
+          },
+          {
+            "name": "Backend Project Ideas",
+            "url": "https://www.codementor.io/projects",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Full Stack Developer": {
+    "description": "Build complete web applications from frontend to backend",
+    "total_duration": "24-28 weeks",
+    "salary_range": "$85,000 - $160,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "HTML, CSS & JavaScript",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Master web fundamentals",
+        "milestones": [
+          "Semantic HTML",
+          "CSS layouts",
+          "ES6+ JavaScript",
+          "DOM manipulation"
+        ],
+        "resources": [
+          {
+            "name": "freeCodeCamp Full Curriculum",
+            "url": "https://www.freecodecamp.org/",
+            "type": "course"
+          },
+          {
+            "name": "The Odin Project",
+            "url": "https://www.theodinproject.com/",
+            "type": "course"
+          },
+          {
+            "name": "MDN Web Docs",
+            "url": "https://developer.mozilla.org/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Frontend Framework (React)",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build modern UIs with React",
+        "milestones": [
+          "Components",
+          "Hooks",
+          "State management",
+          "React Router"
+        ],
+        "resources": [
+          {
+            "name": "React Official Documentation",
+            "url": "https://react.dev/",
+            "type": "documentation"
+          },
+          {
+            "name": "Full Stack Open Course",
+            "url": "https://fullstackopen.com/",
+            "type": "course"
+          },
+          {
+            "name": "Scrimba React Path",
+            "url": "https://scrimba.com/learn/learnreact",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Backend Development (Node.js)",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build server-side applications",
+        "milestones": [
+          "Express.js",
+          "REST APIs",
+          "Middleware",
+          "Error handling"
+        ],
+        "resources": [
+          {
+            "name": "Node.js Documentation",
+            "url": "https://nodejs.org/docs/",
+            "type": "documentation"
+          },
+          {
+            "name": "Express.js Crash Course",
+            "url": "https://expressjs.com/en/starter/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Building APIs with Node",
+            "url": "https://www.manning.com/books/node-js-in-action-second-edition",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Database Management",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Work with SQL and NoSQL databases",
+        "milestones": [
+          "PostgreSQL",
+          "MongoDB",
+          "ORMs (Prisma)",
+          "Database design"
+        ],
+        "resources": [
+          {
+            "name": "MongoDB for JavaScript Developers",
+            "url": "https://university.mongodb.com/",
+            "type": "course"
+          },
+          {
+            "name": "PostgreSQL with Node.js",
+            "url": "https://www.postgresqltutorial.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Prisma ORM Tutorial",
+            "url": "https://www.prisma.io/docs/getting-started",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Authentication & Authorization",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Secure your applications",
+        "milestones": [
+          "JWT implementation",
+          "OAuth integration",
+          "Session management"
+        ],
+        "resources": [
+          {
+            "name": "Passport.js Tutorial",
+            "url": "http://www.passportjs.org/docs/",
+            "type": "documentation"
+          },
+          {
+            "name": "JWT Implementation Guide",
+            "url": "https://jwt.io/introduction",
+            "type": "tutorial"
+          },
+          {
+            "name": "Auth0 Documentation",
+            "url": "https://auth0.com/docs/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "TypeScript",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Add type safety to full stack applications",
+        "milestones": [
+          "TypeScript basics",
+          "React + TypeScript",
+          "Node + TypeScript"
+        ],
+        "resources": [
+          {
+            "name": "TypeScript Handbook",
+            "url": "https://www.typescriptlang.org/docs/handbook/",
+            "type": "documentation"
+          },
+          {
+            "name": "Full Stack TypeScript",
+            "url": "https://fullstackopen.com/en/part9",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Testing",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Test both frontend and backend",
+        "milestones": [
+          "Jest",
+          "React Testing Library",
+          "API testing",
+          "E2E testing"
+        ],
+        "resources": [
+          {
+            "name": "Testing JavaScript",
+            "url": "https://testingjavascript.com/",
+            "type": "course"
+          },
+          {
+            "name": "Cypress Documentation",
+            "url": "https://docs.cypress.io/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "Deployment & DevOps",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Deploy full stack applications",
+        "milestones": [
+          "Docker",
+          "CI/CD",
+          "Cloud deployment"
+        ],
+        "resources": [
+          {
+            "name": "Docker for Full Stack",
+            "url": "https://docs.docker.com/",
+            "type": "documentation"
+          },
+          {
+            "name": "Vercel + Railway Deployment",
+            "url": "https://vercel.com/docs",
+            "type": "documentation"
+          },
+          {
+            "name": "AWS Amplify Guide",
+            "url": "https://docs.amplify.aws/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "skill": "Portfolio Projects",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build complete full stack applications",
+        "milestones": [
+          "E-commerce app",
+          "Social media clone",
+          "SaaS application"
+        ],
+        "resources": [
+          {
+            "name": "Build a Full Stack App",
+            "url": "https://github.com/",
+            "type": "resource"
+          },
+          {
+            "name": "MERN Stack Projects",
+            "url": "https://www.mongodb.com/mern-stack",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Data Scientist": {
+    "description": "Extract insights from data using statistics and machine learning",
+    "total_duration": "24-28 weeks",
+    "salary_range": "$95,000 - $160,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Python & Libraries",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Master Python with NumPy, Pandas, and Jupyter",
+        "milestones": [
+          "Python basics",
+          "NumPy arrays",
+          "Pandas DataFrames",
+          "Jupyter notebooks"
+        ],
+        "resources": [
+          {
+            "name": "Python for Data Science - DataCamp",
+            "url": "https://www.datacamp.com/tracks/python-fundamentals",
+            "type": "course"
+          },
+          {
+            "name": "NumPy and Pandas Tutorial",
+            "url": "https://www.kaggle.com/learn/pandas",
+            "type": "course"
+          },
+          {
+            "name": "Jupyter Notebook Guide",
+            "url": "https://jupyter.org/documentation",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Statistics & Probability",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Deep understanding of statistical methods",
+        "milestones": [
+          "Descriptive stats",
+          "Inferential stats",
+          "Hypothesis testing",
+          "Bayesian methods"
+        ],
+        "resources": [
+          {
+            "name": "Statistics Fundamentals - Khan Academy",
+            "url": "https://www.khanacademy.org/math/statistics-probability",
+            "type": "course"
+          },
+          {
+            "name": "Think Stats Book",
+            "url": "https://greenteapress.com/thinkstats2/",
+            "type": "book"
+          },
+          {
+            "name": "Probability Course - MIT OCW",
+            "url": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Data Visualization",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Create compelling visualizations",
+        "milestones": [
+          "Matplotlib",
+          "Seaborn",
+          "Plotly",
+          "Dashboard creation"
+        ],
+        "resources": [
+          {
+            "name": "Matplotlib & Seaborn Tutorial",
+            "url": "https://seaborn.pydata.org/tutorial.html",
+            "type": "tutorial"
+          },
+          {
+            "name": "Plotly Express Guide",
+            "url": "https://plotly.com/python/plotly-express/",
+            "type": "documentation"
+          },
+          {
+            "name": "Data Viz Best Practices",
+            "url": "https://www.storytellingwithdata.com/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Machine Learning",
+        "duration": "6 weeks",
+        "priority": "critical",
+        "description": "ML algorithms and model building",
+        "milestones": [
+          "Supervised learning",
+          "Unsupervised learning",
+          "Model evaluation",
+          "Feature engineering"
+        ],
+        "resources": [
+          {
+            "name": "Scikit-learn Documentation",
+            "url": "https://scikit-learn.org/stable/user_guide.html",
+            "type": "documentation"
+          },
+          {
+            "name": "Applied ML Course - Coursera",
+            "url": "https://www.coursera.org/learn/applied-machine-learning-in-python",
+            "type": "course"
+          },
+          {
+            "name": "Kaggle Learn ML",
+            "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "SQL & Big Data",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Query databases and work with big data tools",
+        "milestones": [
+          "Advanced SQL",
+          "PySpark basics",
+          "Data pipelines"
+        ],
+        "resources": [
+          {
+            "name": "PySpark Tutorial",
+            "url": "https://spark.apache.org/docs/latest/api/python/",
+            "type": "documentation"
+          },
+          {
+            "name": "SQL for Data Science",
+            "url": "https://mode.com/sql-tutorial/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Databricks Academy",
+            "url": "https://academy.databricks.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Communication & Storytelling",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Present findings effectively",
+        "milestones": [
+          "Written reports",
+          "Presentations",
+          "Stakeholder communication"
+        ],
+        "resources": [
+          {
+            "name": "Data Storytelling Course",
+            "url": "https://www.coursera.org/learn/data-visualization-tableau",
+            "type": "course"
+          },
+          {
+            "name": "Presentation Skills",
+            "url": "https://www.linkedin.com/learning/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Deep Learning",
+        "duration": "4 weeks",
+        "priority": "medium",
+        "description": "Neural networks and deep learning fundamentals",
+        "milestones": [
+          "Neural networks",
+          "TensorFlow/PyTorch basics",
+          "Transfer learning"
+        ],
+        "resources": [
+          {
+            "name": "Deep Learning Specialization",
+            "url": "https://www.coursera.org/specializations/deep-learning",
+            "type": "course"
+          },
+          {
+            "name": "Fast.ai",
+            "url": "https://www.fast.ai/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "Portfolio Projects",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build end-to-end data science projects",
+        "milestones": [
+          "Kaggle competition",
+          "Business case study",
+          "Blog posts"
+        ],
+        "resources": [
+          {
+            "name": "Kaggle Competition Projects",
+            "url": "https://www.kaggle.com/competitions",
+            "type": "resource"
+          },
+          {
+            "name": "End-to-End DS Project",
+            "url": "https://www.dataquest.io/blog/data-science-portfolio-project/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "DevOps Engineer": {
+    "description": "Build and maintain CI/CD pipelines, infrastructure, and cloud systems",
+    "total_duration": "24-28 weeks",
+    "salary_range": "$90,000 - $160,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Linux & Shell Scripting",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Master Linux administration and Bash scripting",
+        "milestones": [
+          "Linux commands",
+          "File permissions",
+          "Process management",
+          "Shell scripts"
+        ],
+        "resources": [
+          {
+            "name": "Linux Journey",
+            "url": "https://linuxjourney.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Bash Scripting Tutorial",
+            "url": "https://www.shellscript.sh/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Linux Academy Courses",
+            "url": "https://acloudguru.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Version Control (Git)",
+        "duration": "1 week",
+        "priority": "critical",
+        "description": "Advanced Git workflows and branching strategies",
+        "milestones": [
+          "Branching",
+          "Merging",
+          "Rebasing",
+          "Git workflows"
+        ],
+        "resources": [
+          {
+            "name": "Pro Git Book",
+            "url": "https://git-scm.com/book/en/v2",
+            "type": "book"
+          },
+          {
+            "name": "Learn Git Branching",
+            "url": "https://learngitbranching.js.org/",
+            "type": "tutorial"
+          },
+          {
+            "name": "GitHub Skills",
+            "url": "https://skills.github.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Networking Fundamentals",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Understand networking for DevOps",
+        "milestones": [
+          "TCP/IP",
+          "DNS",
+          "Load balancing",
+          "Firewalls"
+        ],
+        "resources": [
+          {
+            "name": "Computer Networking Course",
+            "url": "https://www.coursera.org/learn/computer-networking",
+            "type": "course"
+          },
+          {
+            "name": "Networking Fundamentals",
+            "url": "https://www.networklessons.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Containerization (Docker)",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Build and manage containers",
+        "milestones": [
+          "Dockerfiles",
+          "Docker Compose",
+          "Multi-stage builds",
+          "Registries"
+        ],
+        "resources": [
+          {
+            "name": "Docker Documentation",
+            "url": "https://docs.docker.com/",
+            "type": "documentation"
+          },
+          {
+            "name": "Docker Mastery - Udemy",
+            "url": "https://www.udemy.com/course/docker-mastery/",
+            "type": "course"
+          },
+          {
+            "name": "Play with Docker",
+            "url": "https://labs.play-with-docker.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "CI/CD Pipelines",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Build automated deployment pipelines",
+        "milestones": [
+          "Jenkins",
+          "GitHub Actions",
+          "GitLab CI",
+          "Pipeline design"
+        ],
+        "resources": [
+          {
+            "name": "Jenkins Tutorial",
+            "url": "https://www.jenkins.io/doc/tutorials/",
+            "type": "tutorial"
+          },
+          {
+            "name": "GitHub Actions Guide",
+            "url": "https://docs.github.com/en/actions",
+            "type": "documentation"
+          },
+          {
+            "name": "GitLab CI/CD Documentation",
+            "url": "https://docs.gitlab.com/ee/ci/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Orchestration (Kubernetes)",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Manage containerized applications at scale",
+        "milestones": [
+          "Pods",
+          "Deployments",
+          "Services",
+          "Helm charts"
+        ],
+        "resources": [
+          {
+            "name": "Kubernetes Official Tutorials",
+            "url": "https://kubernetes.io/docs/tutorials/",
+            "type": "tutorial"
+          },
+          {
+            "name": "KodeKloud Kubernetes Course",
+            "url": "https://kodekloud.com/",
+            "type": "course"
+          },
+          {
+            "name": "CKAD Preparation Guide",
+            "url": "https://github.com/dgkanatsios/CKAD-exercises",
+            "type": "resource"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Infrastructure as Code",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Automate infrastructure with Terraform and Ansible",
+        "milestones": [
+          "Terraform basics",
+          "Ansible playbooks",
+          "State management"
+        ],
+        "resources": [
+          {
+            "name": "Terraform Getting Started",
+            "url": "https://learn.hashicorp.com/terraform",
+            "type": "tutorial"
+          },
+          {
+            "name": "Ansible for Beginners",
+            "url": "https://www.ansible.com/resources/get-started",
+            "type": "tutorial"
+          },
+          {
+            "name": "Infrastructure as Code Book",
+            "url": "https://www.oreilly.com/library/view/infrastructure-as-code/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "Cloud Platforms",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Master at least one major cloud platform",
+        "milestones": [
+          "Compute services",
+          "Storage",
+          "Networking",
+          "IAM"
+        ],
+        "resources": [
+          {
+            "name": "AWS Solutions Architect Path",
+            "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+            "type": "course"
+          },
+          {
+            "name": "Azure Administrator Guide",
+            "url": "https://docs.microsoft.com/en-us/learn/azure/",
+            "type": "course"
+          },
+          {
+            "name": "GCP Associate Cloud Engineer",
+            "url": "https://cloud.google.com/certification/cloud-engineer",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "skill": "Monitoring & Observability",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Implement monitoring and logging solutions",
+        "milestones": [
+          "Prometheus",
+          "Grafana",
+          "ELK Stack",
+          "Alerting"
+        ],
+        "resources": [
+          {
+            "name": "Prometheus & Grafana Tutorial",
+            "url": "https://prometheus.io/docs/introduction/overview/",
+            "type": "documentation"
+          },
+          {
+            "name": "ELK Stack Guide",
+            "url": "https://www.elastic.co/what-is/elk-stack",
+            "type": "documentation"
+          },
+          {
+            "name": "Datadog Learning Center",
+            "url": "https://learn.datadoghq.com/",
+            "type": "course"
+          }
+        ]
+      }
+    ]
+  },
+  "Cloud Engineer": {
+    "description": "Design, implement, and manage cloud infrastructure",
+    "total_duration": "20-24 weeks",
+    "salary_range": "$95,000 - $165,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Linux Administration",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Master Linux for cloud environments",
+        "milestones": [
+          "System administration",
+          "User management",
+          "Security",
+          "Performance tuning"
+        ],
+        "resources": [
+          {
+            "name": "Linux Journey",
+            "url": "https://linuxjourney.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Linux Academy",
+            "url": "https://acloudguru.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Networking",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Understand cloud networking concepts",
+        "milestones": [
+          "VPCs",
+          "Subnets",
+          "Security groups",
+          "Load balancers"
+        ],
+        "resources": [
+          {
+            "name": "AWS Networking Fundamentals",
+            "url": "https://aws.amazon.com/getting-started/learning-path-networking/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Computer Networking Course",
+            "url": "https://www.coursera.org/learn/computer-networking",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Cloud Platform Fundamentals",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Learn core services of major cloud platform",
+        "milestones": [
+          "Compute",
+          "Storage",
+          "Database",
+          "IAM"
+        ],
+        "resources": [
+          {
+            "name": "AWS Cloud Practitioner",
+            "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+            "type": "course"
+          },
+          {
+            "name": "Azure Fundamentals",
+            "url": "https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/",
+            "type": "course"
+          },
+          {
+            "name": "GCP Fundamentals",
+            "url": "https://cloud.google.com/training/cloud-infrastructure",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Infrastructure as Code",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Automate cloud infrastructure provisioning",
+        "milestones": [
+          "Terraform",
+          "CloudFormation/ARM",
+          "State management"
+        ],
+        "resources": [
+          {
+            "name": "Terraform Documentation",
+            "url": "https://www.terraform.io/docs",
+            "type": "documentation"
+          },
+          {
+            "name": "HashiCorp Learn",
+            "url": "https://learn.hashicorp.com/terraform",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Containers & Kubernetes",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Deploy and manage containerized workloads",
+        "milestones": [
+          "Docker",
+          "EKS/AKS/GKE",
+          "Helm",
+          "Service mesh"
+        ],
+        "resources": [
+          {
+            "name": "Docker Documentation",
+            "url": "https://docs.docker.com/",
+            "type": "documentation"
+          },
+          {
+            "name": "Kubernetes Documentation",
+            "url": "https://kubernetes.io/docs/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Serverless Computing",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Build serverless applications",
+        "milestones": [
+          "Lambda/Functions",
+          "API Gateway",
+          "Event-driven architecture"
+        ],
+        "resources": [
+          {
+            "name": "AWS Lambda Documentation",
+            "url": "https://docs.aws.amazon.com/lambda/",
+            "type": "documentation"
+          },
+          {
+            "name": "Serverless Framework",
+            "url": "https://www.serverless.com/framework/docs",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Security & Compliance",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Implement cloud security best practices",
+        "milestones": [
+          "IAM policies",
+          "Encryption",
+          "Compliance",
+          "Security monitoring"
+        ],
+        "resources": [
+          {
+            "name": "AWS Security Best Practices",
+            "url": "https://aws.amazon.com/architecture/security-identity-compliance/",
+            "type": "documentation"
+          },
+          {
+            "name": "Cloud Security Alliance",
+            "url": "https://cloudsecurityalliance.org/",
+            "type": "resource"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "Monitoring & Cost Optimization",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Monitor cloud resources and optimize costs",
+        "milestones": [
+          "CloudWatch/Monitor",
+          "Cost management",
+          "Alerting"
+        ],
+        "resources": [
+          {
+            "name": "AWS CloudWatch",
+            "url": "https://docs.aws.amazon.com/cloudwatch/",
+            "type": "documentation"
+          },
+          {
+            "name": "Cloud Cost Optimization",
+            "url": "https://aws.amazon.com/aws-cost-management/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "skill": "Certifications & Projects",
+        "duration": "4 weeks",
+        "priority": "high",
+        "description": "Get certified and build portfolio projects",
+        "milestones": [
+          "Cloud certification",
+          "Multi-tier architecture project",
+          "DR setup"
+        ],
+        "resources": [
+          {
+            "name": "AWS Certifications",
+            "url": "https://aws.amazon.com/certification/",
+            "type": "certification"
+          },
+          {
+            "name": "Azure Certifications",
+            "url": "https://docs.microsoft.com/en-us/learn/certifications/",
+            "type": "certification"
+          }
+        ]
+      }
+    ]
+  },
+  "Software Engineer": {
+    "description": "Design and build software systems using engineering principles",
+    "total_duration": "24-28 weeks",
+    "salary_range": "$85,000 - $175,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Programming Fundamentals",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Master a programming language deeply",
+        "milestones": [
+          "Syntax",
+          "Data structures",
+          "OOP",
+          "Design patterns"
+        ],
+        "resources": [
+          {
+            "name": "CS50 - Harvard",
+            "url": "https://cs50.harvard.edu/x/",
+            "type": "course"
+          },
+          {
+            "name": "Head First Design Patterns",
+            "url": "https://www.oreilly.com/library/view/head-first-design/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Data Structures & Algorithms",
+        "duration": "6 weeks",
+        "priority": "critical",
+        "description": "Master DSA for problem-solving and interviews",
+        "milestones": [
+          "Arrays",
+          "Trees",
+          "Graphs",
+          "Dynamic programming"
+        ],
+        "resources": [
+          {
+            "name": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "NeetCode",
+            "url": "https://neetcode.io/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Introduction to Algorithms - MIT",
+            "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "System Design Fundamentals",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Design scalable systems",
+        "milestones": [
+          "Scalability",
+          "Database design",
+          "Caching",
+          "Load balancing"
+        ],
+        "resources": [
+          {
+            "name": "System Design Primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "type": "tutorial"
+          },
+          {
+            "name": "Designing Data-Intensive Applications",
+            "url": "https://dataintensive.net/",
+            "type": "book"
+          },
+          {
+            "name": "ByteByteGo",
+            "url": "https://bytebytego.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Version Control & Collaboration",
+        "duration": "1 week",
+        "priority": "critical",
+        "description": "Git workflows and code review",
+        "milestones": [
+          "Git workflows",
+          "Code review",
+          "Pull requests"
+        ],
+        "resources": [
+          {
+            "name": "Pro Git Book",
+            "url": "https://git-scm.com/book/en/v2",
+            "type": "book"
+          },
+          {
+            "name": "GitHub Skills",
+            "url": "https://skills.github.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Testing & Quality",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Write testable, maintainable code",
+        "milestones": [
+          "Unit testing",
+          "Integration testing",
+          "TDD",
+          "Code coverage"
+        ],
+        "resources": [
+          {
+            "name": "Test Driven Development",
+            "url": "https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530",
+            "type": "book"
+          },
+          {
+            "name": "Clean Code",
+            "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Database Systems",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Work with various database systems",
+        "milestones": [
+          "SQL databases",
+          "NoSQL databases",
+          "Query optimization",
+          "Transactions"
+        ],
+        "resources": [
+          {
+            "name": "PostgreSQL Tutorial",
+            "url": "https://www.postgresqltutorial.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "MongoDB University",
+            "url": "https://university.mongodb.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "API Design & Development",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Build well-designed APIs",
+        "milestones": [
+          "REST principles",
+          "API versioning",
+          "Documentation",
+          "Error handling"
+        ],
+        "resources": [
+          {
+            "name": "API Design Patterns",
+            "url": "https://www.manning.com/books/api-design-patterns",
+            "type": "book"
+          },
+          {
+            "name": "Google API Design Guide",
+            "url": "https://cloud.google.com/apis/design",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "DevOps Fundamentals",
+        "duration": "2 weeks",
+        "priority": "high",
+        "description": "Understand CI/CD and deployment",
+        "milestones": [
+          "Docker basics",
+          "CI/CD pipelines",
+          "Cloud basics"
+        ],
+        "resources": [
+          {
+            "name": "Docker Documentation",
+            "url": "https://docs.docker.com/",
+            "type": "documentation"
+          },
+          {
+            "name": "GitHub Actions",
+            "url": "https://docs.github.com/en/actions",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "skill": "Portfolio & Interview Prep",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build portfolio and practice interviews",
+        "milestones": [
+          "Open source contributions",
+          "Personal projects",
+          "Mock interviews"
+        ],
+        "resources": [
+          {
+            "name": "Pramp",
+            "url": "https://www.pramp.com/",
+            "type": "resource"
+          },
+          {
+            "name": "GitHub Projects",
+            "url": "https://github.com/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "AI/ML Engineer": {
+    "description": "Build and deploy AI/ML systems for production applications",
+    "total_duration": "28-32 weeks",
+    "salary_range": "$120,000 - $200,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Python Mastery",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Advanced Python including OOP and best practices",
+        "milestones": [
+          "Advanced Python",
+          "Testing",
+          "Package management"
+        ],
+        "resources": [
+          {
+            "name": "Fluent Python",
+            "url": "https://www.oreilly.com/library/view/fluent-python-2nd/",
+            "type": "book"
+          },
+          {
+            "name": "Real Python",
+            "url": "https://realpython.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Mathematics for ML",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Linear algebra, calculus, probability, and statistics",
+        "milestones": [
+          "Matrix operations",
+          "Calculus",
+          "Probability",
+          "Statistics"
+        ],
+        "resources": [
+          {
+            "name": "Mathematics for Machine Learning",
+            "url": "https://mml-book.github.io/",
+            "type": "book"
+          },
+          {
+            "name": "3Blue1Brown",
+            "url": "https://www.youtube.com/c/3blue1brown",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Classical Machine Learning",
+        "duration": "5 weeks",
+        "priority": "critical",
+        "description": "ML algorithms and scikit-learn",
+        "milestones": [
+          "Supervised learning",
+          "Unsupervised learning",
+          "Ensemble methods"
+        ],
+        "resources": [
+          {
+            "name": "Machine Learning - Andrew Ng",
+            "url": "https://www.coursera.org/learn/machine-learning",
+            "type": "course"
+          },
+          {
+            "name": "Hands-On ML",
+            "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Deep Learning",
+        "duration": "6 weeks",
+        "priority": "critical",
+        "description": "Neural networks with PyTorch/TensorFlow",
+        "milestones": [
+          "Neural networks",
+          "CNNs",
+          "RNNs/LSTMs",
+          "Transformers"
+        ],
+        "resources": [
+          {
+            "name": "Deep Learning Specialization",
+            "url": "https://www.coursera.org/specializations/deep-learning",
+            "type": "course"
+          },
+          {
+            "name": "Fast.ai",
+            "url": "https://course.fast.ai/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "NLP & LLMs",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Natural Language Processing and Large Language Models",
+        "milestones": [
+          "Text processing",
+          "Transformers",
+          "Hugging Face",
+          "Fine-tuning"
+        ],
+        "resources": [
+          {
+            "name": "Hugging Face Course",
+            "url": "https://huggingface.co/course",
+            "type": "course"
+          },
+          {
+            "name": "Stanford CS224N",
+            "url": "https://web.stanford.edu/class/cs224n/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Computer Vision",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Image and video processing with deep learning",
+        "milestones": [
+          "Image classification",
+          "Object detection",
+          "Segmentation"
+        ],
+        "resources": [
+          {
+            "name": "Stanford CS231n",
+            "url": "https://cs231n.stanford.edu/",
+            "type": "course"
+          },
+          {
+            "name": "OpenCV Tutorials",
+            "url": "https://docs.opencv.org/master/d9/df8/tutorial_root.html",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "MLOps & Deployment",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Production ML systems and pipelines",
+        "milestones": [
+          "Docker for ML",
+          "Model serving",
+          "ML pipelines",
+          "Monitoring"
+        ],
+        "resources": [
+          {
+            "name": "MLOps Specialization",
+            "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+            "type": "course"
+          },
+          {
+            "name": "Made With ML",
+            "url": "https://madewithml.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "skill": "AI Applications",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Build applications with LangChain, RAG, etc.",
+        "milestones": [
+          "LangChain",
+          "RAG systems",
+          "Prompt engineering",
+          "Vector databases"
+        ],
+        "resources": [
+          {
+            "name": "LangChain Documentation",
+            "url": "https://python.langchain.com/docs/",
+            "type": "documentation"
+          },
+          {
+            "name": "Prompt Engineering Guide",
+            "url": "https://www.promptingguide.ai/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "skill": "Portfolio Projects",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Build end-to-end AI projects",
+        "milestones": [
+          "Kaggle competition",
+          "Deployed AI app",
+          "Research paper implementation"
+        ],
+        "resources": [
+          {
+            "name": "Kaggle Competitions",
+            "url": "https://www.kaggle.com/competitions",
+            "type": "resource"
+          },
+          {
+            "name": "Papers With Code",
+            "url": "https://paperswithcode.com/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Product Manager": {
+    "description": "Lead product strategy and development for tech products",
+    "total_duration": "16-20 weeks",
+    "salary_range": "$100,000 - $180,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "Product Fundamentals",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Understand product management basics",
+        "milestones": [
+          "Product lifecycle",
+          "Roadmapping",
+          "Prioritization frameworks"
+        ],
+        "resources": [
+          {
+            "name": "Product School",
+            "url": "https://productschool.com/",
+            "type": "course"
+          },
+          {
+            "name": "Inspired by Marty Cagan",
+            "url": "https://www.svpg.com/inspired-how-to-create-products-customers-love/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "User Research",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Conduct user interviews and research",
+        "milestones": [
+          "User interviews",
+          "Surveys",
+          "Usability testing",
+          "Personas"
+        ],
+        "resources": [
+          {
+            "name": "The Mom Test",
+            "url": "https://www.momtestbook.com/",
+            "type": "book"
+          },
+          {
+            "name": "User Research Methods",
+            "url": "https://www.nngroup.com/topic/user-research/",
+            "type": "resource"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Data Analysis",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Use data to drive product decisions",
+        "milestones": [
+          "SQL basics",
+          "Product analytics",
+          "A/B testing",
+          "Metrics"
+        ],
+        "resources": [
+          {
+            "name": "SQL for Product Managers",
+            "url": "https://mode.com/sql-tutorial/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Product Analytics",
+            "url": "https://www.amplitude.com/blog/product-analytics",
+            "type": "resource"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Technical Knowledge",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Understand technical concepts for better collaboration",
+        "milestones": [
+          "APIs",
+          "Databases",
+          "Web basics",
+          "Mobile platforms"
+        ],
+        "resources": [
+          {
+            "name": "Technical Product Management",
+            "url": "https://www.linkedin.com/learning/technical-skills-for-non-technical-product-managers",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Agile & Scrum",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Master agile methodologies",
+        "milestones": [
+          "Scrum",
+          "Sprint planning",
+          "Backlog management",
+          "Retrospectives"
+        ],
+        "resources": [
+          {
+            "name": "Scrum Guide",
+            "url": "https://scrumguides.org/",
+            "type": "documentation"
+          },
+          {
+            "name": "Atlassian Agile Coach",
+            "url": "https://www.atlassian.com/agile",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Communication & Leadership",
+        "duration": "2 weeks",
+        "priority": "critical",
+        "description": "Stakeholder management and leadership",
+        "milestones": [
+          "PRDs",
+          "Presentations",
+          "Stakeholder management",
+          "Influence"
+        ],
+        "resources": [
+          {
+            "name": "Crucial Conversations",
+            "url": "https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/1260474186",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Portfolio & Certifications",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Build PM portfolio and get certified",
+        "milestones": [
+          "Case studies",
+          "Product teardowns",
+          "Certifications"
+        ],
+        "resources": [
+          {
+            "name": "Product Management Certifications",
+            "url": "https://productschool.com/product-management-certification/",
+            "type": "certification"
+          },
+          {
+            "name": "PM Interview Prep",
+            "url": "https://www.crackingthepminterview.com/",
+            "type": "book"
+          }
+        ]
+      }
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "description": "Protect organizations from cyber threats and security breaches",
+    "total_duration": "20-24 weeks",
+    "salary_range": "$75,000 - $140,000",
+    "steps": [
+      {
+        "step": 1,
+        "skill": "IT Fundamentals",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Strong foundation in IT and networking",
+        "milestones": [
+          "Networking basics",
+          "Operating systems",
+          "Hardware"
+        ],
+        "resources": [
+          {
+            "name": "CompTIA A+ Course",
+            "url": "https://www.comptia.org/certifications/a",
+            "type": "course"
+          },
+          {
+            "name": "Professor Messer",
+            "url": "https://www.professormesser.com/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "skill": "Networking Deep Dive",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Deep understanding of network protocols and architecture",
+        "milestones": [
+          "TCP/IP",
+          "Network security",
+          "Firewalls",
+          "VPNs"
+        ],
+        "resources": [
+          {
+            "name": "CompTIA Network+",
+            "url": "https://www.comptia.org/certifications/network",
+            "type": "certification"
+          },
+          {
+            "name": "Practical Networking",
+            "url": "https://www.practicalnetworking.net/",
+            "type": "tutorial"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "skill": "Linux & Scripting",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Linux administration and automation",
+        "milestones": [
+          "Linux commands",
+          "Bash scripting",
+          "Python scripting"
+        ],
+        "resources": [
+          {
+            "name": "Linux Journey",
+            "url": "https://linuxjourney.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "Automate the Boring Stuff",
+            "url": "https://automatetheboringstuff.com/",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "skill": "Security Fundamentals",
+        "duration": "4 weeks",
+        "priority": "critical",
+        "description": "Core security concepts and CompTIA Security+",
+        "milestones": [
+          "CIA triad",
+          "Encryption",
+          "Access control",
+          "Security policies"
+        ],
+        "resources": [
+          {
+            "name": "CompTIA Security+",
+            "url": "https://www.comptia.org/certifications/security",
+            "type": "certification"
+          },
+          {
+            "name": "OWASP",
+            "url": "https://owasp.org/",
+            "type": "documentation"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "skill": "Security Operations",
+        "duration": "3 weeks",
+        "priority": "critical",
+        "description": "Security monitoring and incident response",
+        "milestones": [
+          "SIEM tools",
+          "Log analysis",
+          "Incident response",
+          "Threat hunting"
+        ],
+        "resources": [
+          {
+            "name": "Splunk Fundamentals",
+            "url": "https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html",
+            "type": "course"
+          },
+          {
+            "name": "Blue Team Level 1",
+            "url": "https://securityblue.team/",
+            "type": "certification"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "skill": "Ethical Hacking Basics",
+        "duration": "3 weeks",
+        "priority": "high",
+        "description": "Understand attacker techniques",
+        "milestones": [
+          "Reconnaissance",
+          "Vulnerability assessment",
+          "Basic exploitation"
+        ],
+        "resources": [
+          {
+            "name": "TryHackMe",
+            "url": "https://tryhackme.com/",
+            "type": "tutorial"
+          },
+          {
+            "name": "HackTheBox Academy",
+            "url": "https://academy.hackthebox.com/",
+            "type": "course"
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "skill": "Certifications & Portfolio",
+        "duration": "4 weeks",
+        "priority": "high",
+        "description": "Get certified and build a portfolio",
+        "milestones": [
+          "Security+ certification",
+          "CTF competitions",
+          "Home lab"
+        ],
+        "resources": [
+          {
+            "name": "Security+ Exam",
+            "url": "https://www.comptia.org/certifications/security",
+            "type": "certification"
+          },
+          {
+            "name": "CTF Time",
+            "url": "https://ctftime.org/",
+            "type": "resource"
+          }
+        ]
+      }
+    ]
+  },
+  "Mobile Developer": {
+    "description": "Build native and cross-platform mobile applications",
+    "aliases": [
+      "iOS Developer",
+      "Android Developer",
+      "React Native Developer",
+      "Flutter Developer"
+    ],
+    "average_salary": "$95,000 - $145,000",
+    "demand": "High",
+    "experience_levels": {
+      "beginner": {
+        "duration": "6-8 months",
+        "focus": "Learn one platform deeply (iOS or Android) or cross-platform framework"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Advanced patterns, state management, native integrations"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Performance optimization, architecture patterns, CI/CD"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Mobile Development Fundamentals",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Mobile UI/UX principles",
+          "React Native OR Flutter",
+          "JavaScript/Dart basics",
+          "Mobile navigation patterns"
+        ],
+        "projects": [
+          "Simple calculator app",
+          "To-do list app",
+          "Weather app with API"
+        ],
+        "resources": [
+          "React Native docs",
+          "Flutter documentation",
+          "Mobile design patterns"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "State Management & Data",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Redux/Provider/Riverpod",
+          "Local storage",
+          "REST API integration",
+          "Authentication"
+        ],
+        "projects": [
+          "Social media app clone",
+          "E-commerce app",
+          "Chat application"
+        ],
+        "resources": [
+          "State management tutorials",
+          "Firebase documentation"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Advanced Mobile Development",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Native modules",
+          "Push notifications",
+          "Maps integration",
+          "Camera/media handling"
+        ],
+        "projects": [
+          "Location-based app",
+          "Video streaming app",
+          "Fitness tracker"
+        ],
+        "resources": [
+          "Platform-specific guides",
+          "Third-party SDK docs"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Production & Publishing",
+        "duration": "4-6 weeks",
+        "skills": [
+          "App Store optimization",
+          "CI/CD for mobile",
+          "Analytics integration",
+          "Crash reporting"
+        ],
+        "projects": [
+          "Publish app to stores",
+          "Implement analytics",
+          "Performance optimization"
+        ],
+        "resources": [
+          "App Store guidelines",
+          "Play Store policies",
+          "Fastlane documentation"
+        ]
+      }
+    ],
+    "tools": [
+      "Xcode",
+      "Android Studio",
+      "VS Code",
+      "Figma",
+      "Firebase",
+      "Fastlane"
+    ],
+    "certifications": [
+      "Google Associate Android Developer",
+      "Meta React Native"
+    ]
+  },
+  "Data Engineer": {
+    "description": "Design and build data pipelines and infrastructure",
+    "aliases": [
+      "ETL Developer",
+      "Big Data Engineer",
+      "Pipeline Engineer"
+    ],
+    "average_salary": "$110,000 - $160,000",
+    "demand": "Very High",
+    "experience_levels": {
+      "beginner": {
+        "duration": "6-8 months",
+        "focus": "SQL mastery, Python, basic ETL concepts"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Distributed systems, cloud data services, orchestration"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Real-time streaming, data mesh, cost optimization"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Data Fundamentals",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Advanced SQL",
+          "Python for data",
+          "Data modeling",
+          "Database design"
+        ],
+        "projects": [
+          "Design normalized database",
+          "ETL scripts",
+          "Data quality checks"
+        ],
+        "resources": [
+          "SQL tutorials",
+          "Data modeling guides",
+          "Python documentation"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "Data Pipeline Development",
+        "duration": "8-10 weeks",
+        "skills": [
+          "Apache Airflow",
+          "dbt",
+          "Data warehousing",
+          "Snowflake/BigQuery"
+        ],
+        "projects": [
+          "Build ETL pipeline",
+          "Create data warehouse",
+          "Implement data quality framework"
+        ],
+        "resources": [
+          "Airflow documentation",
+          "dbt learn",
+          "Cloud data platform docs"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Big Data Technologies",
+        "duration": "8-10 weeks",
+        "skills": [
+          "Apache Spark",
+          "Kafka",
+          "Distributed computing",
+          "Data lakes"
+        ],
+        "projects": [
+          "Spark data processing job",
+          "Real-time streaming pipeline",
+          "Data lake architecture"
+        ],
+        "resources": [
+          "Spark guides",
+          "Kafka documentation",
+          "Databricks learning"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Production Data Engineering",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Data governance",
+          "Cost optimization",
+          "Monitoring",
+          "Data mesh patterns"
+        ],
+        "projects": [
+          "Production pipeline with monitoring",
+          "Data catalog implementation"
+        ],
+        "resources": [
+          "Data governance frameworks",
+          "FinOps for data"
+        ]
+      }
+    ],
+    "tools": [
+      "Airflow",
+      "Spark",
+      "Kafka",
+      "dbt",
+      "Snowflake",
+      "AWS/GCP/Azure"
+    ],
+    "certifications": [
+      "Databricks Certified",
+      "Snowflake SnowPro",
+      "AWS Data Analytics"
+    ]
+  },
+  "Database Administrator": {
+    "description": "Manage, optimize, and secure database systems",
+    "aliases": [
+      "DBA",
+      "Database Engineer",
+      "Database Specialist"
+    ],
+    "average_salary": "$90,000 - $140,000",
+    "demand": "Stable",
+    "experience_levels": {
+      "beginner": {
+        "duration": "4-6 months",
+        "focus": "SQL mastery, database fundamentals, basic administration"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Performance tuning, backup/recovery, replication"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "High availability, disaster recovery, cloud databases"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Database Fundamentals",
+        "duration": "6-8 weeks",
+        "skills": [
+          "SQL mastery",
+          "Database design",
+          "Normalization",
+          "Indexing basics"
+        ],
+        "projects": [
+          "Design database schema",
+          "Write complex queries",
+          "Create indexes"
+        ],
+        "resources": [
+          "SQL documentation",
+          "Database design books"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "Database Administration",
+        "duration": "8-10 weeks",
+        "skills": [
+          "PostgreSQL/MySQL admin",
+          "Backup/recovery",
+          "User management",
+          "Security"
+        ],
+        "projects": [
+          "Setup production database",
+          "Implement backup strategy",
+          "Security audit"
+        ],
+        "resources": [
+          "PostgreSQL docs",
+          "MySQL admin guide"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Performance & Optimization",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Query optimization",
+          "Execution plans",
+          "Partitioning",
+          "Monitoring"
+        ],
+        "projects": [
+          "Optimize slow queries",
+          "Implement monitoring",
+          "Performance benchmark"
+        ],
+        "resources": [
+          "Performance tuning guides",
+          "Monitoring tools docs"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "High Availability & Cloud",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Replication",
+          "Clustering",
+          "Cloud databases",
+          "Disaster recovery"
+        ],
+        "projects": [
+          "Setup replication",
+          "Implement failover",
+          "Migrate to cloud"
+        ],
+        "resources": [
+          "HA documentation",
+          "Cloud database guides"
+        ]
+      }
+    ],
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "SQL Server",
+      "MongoDB",
+      "AWS RDS"
+    ],
+    "certifications": [
+      "Oracle DBA",
+      "PostgreSQL Certified",
+      "AWS Database Specialty"
+    ]
+  },
+  "UI/UX Designer": {
+    "description": "Design user interfaces and experiences for digital products",
+    "aliases": [
+      "Product Designer",
+      "Interaction Designer",
+      "Visual Designer"
+    ],
+    "average_salary": "$85,000 - $130,000",
+    "demand": "High",
+    "experience_levels": {
+      "beginner": {
+        "duration": "4-6 months",
+        "focus": "Design fundamentals, tools, basic prototyping"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "User research, design systems, advanced prototyping"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Strategy, leadership, complex systems design"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Design Fundamentals",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Design principles",
+          "Color theory",
+          "Typography",
+          "Figma basics"
+        ],
+        "projects": [
+          "Mobile app redesign",
+          "Website mockup",
+          "Icon set design"
+        ],
+        "resources": [
+          "Design courses",
+          "Figma tutorials"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "UX Research & Process",
+        "duration": "6-8 weeks",
+        "skills": [
+          "User research",
+          "Personas",
+          "User journeys",
+          "Wireframing"
+        ],
+        "projects": [
+          "Conduct user interviews",
+          "Create user personas",
+          "Design user flows"
+        ],
+        "resources": [
+          "UX research methods",
+          "Design thinking guides"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Advanced UI Design",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Design systems",
+          "Prototyping",
+          "Motion design",
+          "Accessibility"
+        ],
+        "projects": [
+          "Build design system",
+          "Interactive prototype",
+          "Accessibility audit"
+        ],
+        "resources": [
+          "Design systems docs",
+          "Accessibility guidelines"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Product Design Practice",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Design handoff",
+          "Developer collaboration",
+          "Metrics",
+          "A/B testing"
+        ],
+        "projects": [
+          "End-to-end product design",
+          "Design documentation",
+          "Portfolio"
+        ],
+        "resources": [
+          "Product design case studies",
+          "Portfolio guides"
+        ]
+      }
+    ],
+    "tools": [
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "Principle",
+      "Maze",
+      "Hotjar"
+    ],
+    "certifications": [
+      "Google UX Design",
+      "Nielsen Norman UX"
+    ]
+  },
+  "QA Engineer": {
+    "description": "Ensure software quality through testing and automation",
+    "aliases": [
+      "Test Engineer",
+      "SDET",
+      "Quality Assurance Engineer",
+      "Test Automation Engineer"
+    ],
+    "average_salary": "$80,000 - $130,000",
+    "demand": "High",
+    "experience_levels": {
+      "beginner": {
+        "duration": "3-4 months",
+        "focus": "Testing fundamentals, manual testing, test cases"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Test automation, frameworks, CI/CD integration"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Architecture, performance testing, test strategy"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Testing Fundamentals",
+        "duration": "4-6 weeks",
+        "skills": [
+          "Testing types",
+          "Test case design",
+          "Bug reporting",
+          "Test planning"
+        ],
+        "projects": [
+          "Write test cases",
+          "Execute test plan",
+          "Bug documentation"
+        ],
+        "resources": [
+          "ISTQB materials",
+          "Testing tutorials"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "Test Automation Basics",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Selenium/Cypress",
+          "Python/JavaScript for testing",
+          "POM pattern",
+          "API testing"
+        ],
+        "projects": [
+          "Automate web tests",
+          "API test suite",
+          "Page object model implementation"
+        ],
+        "resources": [
+          "Selenium docs",
+          "Cypress documentation",
+          "Postman guides"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Advanced Automation",
+        "duration": "6-8 weeks",
+        "skills": [
+          "CI/CD integration",
+          "Mobile testing",
+          "Performance testing",
+          "BDD"
+        ],
+        "projects": [
+          "CI/CD test pipeline",
+          "Mobile test automation",
+          "Load testing"
+        ],
+        "resources": [
+          "Jenkins/GitHub Actions docs",
+          "Appium guides",
+          "JMeter tutorials"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Quality Engineering",
+        "duration": "4-6 weeks",
+        "skills": [
+          "Test strategy",
+          "Quality metrics",
+          "Shift-left testing",
+          "Test architecture"
+        ],
+        "projects": [
+          "Quality dashboard",
+          "Test framework design",
+          "Quality strategy document"
+        ],
+        "resources": [
+          "Quality engineering practices",
+          "Testing architecture guides"
+        ]
+      }
+    ],
+    "tools": [
+      "Selenium",
+      "Cypress",
+      "Playwright",
+      "Jest",
+      "Postman",
+      "JMeter"
+    ],
+    "certifications": [
+      "ISTQB Foundation",
+      "ISTQB Advanced",
+      "Selenium Certification"
+    ]
+  },
+  "Technical Lead": {
+    "description": "Lead technical teams and drive architectural decisions",
+    "aliases": [
+      "Tech Lead",
+      "Engineering Lead",
+      "Lead Developer"
+    ],
+    "average_salary": "$130,000 - $180,000",
+    "demand": "High",
+    "experience_levels": {
+      "beginner": {
+        "duration": "6-8 months",
+        "focus": "Leadership basics, code review, mentoring"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Architecture, team processes, stakeholder management"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Strategy, cross-team coordination, technical vision"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Technical Excellence",
+        "duration": "8-10 weeks",
+        "skills": [
+          "System design",
+          "Code review best practices",
+          "Technical documentation",
+          "Architecture patterns"
+        ],
+        "projects": [
+          "Design system architecture",
+          "Create coding standards",
+          "Technical RFC"
+        ],
+        "resources": [
+          "System design resources",
+          "Architecture books"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "Leadership Fundamentals",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Mentoring",
+          "1:1 meetings",
+          "Feedback delivery",
+          "Team dynamics"
+        ],
+        "projects": [
+          "Mentor junior developer",
+          "Lead sprint planning",
+          "Conduct code reviews"
+        ],
+        "resources": [
+          "Engineering management books",
+          "Leadership courses"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Process & Delivery",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Agile practices",
+          "Technical planning",
+          "Risk management",
+          "Stakeholder communication"
+        ],
+        "projects": [
+          "Lead project delivery",
+          "Process improvement",
+          "Technical roadmap"
+        ],
+        "resources": [
+          "Agile methodologies",
+          "Project management guides"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Strategic Leadership",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Technical strategy",
+          "Cross-team collaboration",
+          "Hiring",
+          "Technical vision"
+        ],
+        "projects": [
+          "Technical strategy document",
+          "Team building",
+          "Organization-wide initiative"
+        ],
+        "resources": [
+          "Staff engineer guides",
+          "CTO resources"
+        ]
+      }
+    ],
+    "tools": [
+      "Architecture tools",
+      "Documentation platforms",
+      "Project management tools"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "Google Cloud Architect"
+    ]
+  },
+  "Systems Architect": {
+    "description": "Design large-scale software systems and infrastructure",
+    "aliases": [
+      "Solution Architect",
+      "Enterprise Architect",
+      "Platform Architect"
+    ],
+    "average_salary": "$140,000 - $200,000",
+    "demand": "High",
+    "experience_levels": {
+      "beginner": {
+        "duration": "6-8 months",
+        "focus": "Architecture fundamentals, patterns, documentation"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Distributed systems, cloud architecture, trade-offs"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Enterprise architecture, strategy, governance"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "Architecture Fundamentals",
+        "duration": "8-10 weeks",
+        "skills": [
+          "Design patterns",
+          "Architecture styles",
+          "Documentation (C4, UML)",
+          "Trade-off analysis"
+        ],
+        "projects": [
+          "System design document",
+          "Architecture decision records",
+          "Component diagram"
+        ],
+        "resources": [
+          "Design patterns book",
+          "Architecture guides"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "Distributed Systems",
+        "duration": "8-10 weeks",
+        "skills": [
+          "Microservices",
+          "Event-driven architecture",
+          "CAP theorem",
+          "Consistency patterns"
+        ],
+        "projects": [
+          "Microservices architecture",
+          "Event sourcing implementation",
+          "API gateway design"
+        ],
+        "resources": [
+          "Distributed systems books",
+          "Microservices patterns"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Cloud Architecture",
+        "duration": "8-10 weeks",
+        "skills": [
+          "Multi-cloud strategies",
+          "Kubernetes architecture",
+          "Serverless patterns",
+          "Cost optimization"
+        ],
+        "projects": [
+          "Cloud migration plan",
+          "Kubernetes cluster design",
+          "Cost analysis"
+        ],
+        "resources": [
+          "Cloud provider documentation",
+          "Well-architected frameworks"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Enterprise Architecture",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Enterprise patterns",
+          "Governance",
+          "Technology radar",
+          "Vendor evaluation"
+        ],
+        "projects": [
+          "Enterprise architecture document",
+          "Technology strategy",
+          "Standards document"
+        ],
+        "resources": [
+          "TOGAF",
+          "Enterprise architecture frameworks"
+        ]
+      }
+    ],
+    "tools": [
+      "Draw.io",
+      "Miro",
+      "AWS/Azure/GCP",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Professional",
+      "TOGAF",
+      "Azure Solutions Architect"
+    ]
+  },
+  "Business Analyst": {
+    "description": "Bridge business needs with technical solutions",
+    "aliases": [
+      "BA",
+      "Requirements Analyst",
+      "Product Analyst"
+    ],
+    "average_salary": "$75,000 - $115,000",
+    "demand": "Stable",
+    "experience_levels": {
+      "beginner": {
+        "duration": "3-4 months",
+        "focus": "Requirements gathering, documentation, stakeholder communication"
+      },
+      "intermediate": {
+        "duration": "4-6 months",
+        "focus": "Process modeling, data analysis, solution design"
+      },
+      "advanced": {
+        "duration": "3-4 months",
+        "focus": "Strategy, enterprise analysis, change management"
+      }
+    },
+    "phases": [
+      {
+        "phase": 1,
+        "title": "BA Fundamentals",
+        "duration": "4-6 weeks",
+        "skills": [
+          "Requirements elicitation",
+          "Stakeholder analysis",
+          "Documentation",
+          "User stories"
+        ],
+        "projects": [
+          "Requirements document",
+          "Stakeholder map",
+          "User story writing"
+        ],
+        "resources": [
+          "BABOK guide",
+          "Requirements engineering"
+        ]
+      },
+      {
+        "phase": 2,
+        "title": "Analysis Techniques",
+        "duration": "6-8 weeks",
+        "skills": [
+          "Process modeling (BPMN)",
+          "Data analysis",
+          "Gap analysis",
+          "Use cases"
+        ],
+        "projects": [
+          "Process flow diagrams",
+          "Gap analysis report",
+          "Use case documentation"
+        ],
+        "resources": [
+          "BPMN guides",
+          "Data analysis tutorials"
+        ]
+      },
+      {
+        "phase": 3,
+        "title": "Technical Skills",
+        "duration": "6-8 weeks",
+        "skills": [
+          "SQL basics",
+          "Data visualization",
+          "API understanding",
+          "Agile/Scrum"
+        ],
+        "projects": [
+          "Data analysis report",
+          "Dashboard creation",
+          "Agile project participation"
+        ],
+        "resources": [
+          "SQL tutorials",
+          "Tableau/Power BI guides"
+        ]
+      },
+      {
+        "phase": 4,
+        "title": "Strategic Analysis",
+        "duration": "4-6 weeks",
+        "skills": [
+          "Business case development",
+          "ROI analysis",
+          "Change management",
+          "Enterprise analysis"
+        ],
+        "projects": [
+          "Business case document",
+          "ROI calculation",
+          "Change impact analysis"
+        ],
+        "resources": [
+          "Strategy frameworks",
+          "Change management guides"
+        ]
+      }
+    ],
+    "tools": [
+      "Jira",
+      "Confluence",
+      "Visio",
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "certifications": [
+      "CBAP",
+      "PMI-PBA",
+      "Agile certifications"
+    ]
+  }
+}
